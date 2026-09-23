@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790207014,
+  "updated": 1790207033,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -45,12 +45,12 @@
         "Quick Settings tile: pause or resume per-app volume straight from the notification shade.",
         "Long-press an app in your list to remove it quickly."
       ],
-      "versionCode": 5,
-      "versionName": "2.0",
-      "size": 4665981,
-      "sha256": "6c491645e91ecdce70059b6451bb341dc5f9fb2ca88b8351bb35abdcb8cd279b",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.volume-5-6c491645e9/com.ghost.volume-5-6c491645e9.apk",
-      "published": 1790203004
+      "versionCode": 6,
+      "versionName": "2.1",
+      "size": 4666565,
+      "sha256": "9f4904700c0f579ae160bd97e74f716dc9dc283d7a47ca3c74f3275ce5c55941",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.volume-6-9f4904700c/com.ghost.volume-6-9f4904700c.apk",
+      "published": 1790207030
     },
     {
       "package": "com.ghost.terminal",
