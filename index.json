@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790204685,
+  "updated": 1790206959,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -8,9 +8,9 @@
       "icon": "hub",
       "description": "Every Ghost app in one place. Install and update them anywhere, from GitHub or your PC.",
       "changes": [
-        "Works anywhere now: apps download from GitHub on mobile data, at school or on any Wi-Fi. Your PC isn't needed.",
-        "At home it can still use your PC if GitHub can't be reached. Choose in Settings > Get apps from.",
-        "Longer waits on slow connections, and clearer messages when there's no internet."
+        "Update checks keep working after your phone restarts.",
+        "\"Update all\" shows how much it will download.",
+        "Downloaded installers are cleaned up once an app is installed."
       ],
       "versionCode": 7,
       "versionName": "2.1",
@@ -25,9 +25,9 @@
       "icon": "ghost",
       "description": "Set your location anywhere: teleport, walk a route or steer with the joystick.",
       "changes": [
-        "Brand-new look to match Ghost GPS for iPhone: full-screen map with a floating search card and one big \"Move me here\" button.",
-        "Favourites show as one-tap chips above the button (long-press one to remove it). Tabs now have names: Teleport, Walk, Joystick.",
-        "Just GPS now: opens straight to the map. The VPN lives in Ghost VPN. The Dark map style is fixed too."
+        "There & back: long-press Loop to walk a route out and home along the same path, on repeat.",
+        "Long-press the status chip to copy your fake coordinates.",
+        "Clearer walking status while heading back on a route."
       ],
       "versionCode": 6,
       "versionName": "2.0",
@@ -42,10 +42,8 @@
       "icon": "volume",
       "description": "Your own volume for every app, switched automatically when you open it.",
       "changes": [
-        "Fixed: pop-ups, the volume panel and game overlays no longer snap the volume back to normal while you're still in an app.",
-        "Music keeps its own volume in the background: leave Spotify or YouTube and it stays at its level while it plays.",
-        "New design: a Now card shows what you're hearing and through what, every app gets its own slider, and a quick Add an app screen.",
-        "Your normal volume is saved safely, so it always comes back, even if Android restarts Ghost Volume."
+        "Quick Settings tile: pause or resume per-app volume straight from the notification shade.",
+        "Long-press an app in your list to remove it quickly."
       ],
       "versionCode": 5,
       "versionName": "2.0",
@@ -60,8 +58,8 @@
       "icon": "terminal",
       "description": "A shell on your phone, with a side list of commands that work on your device.",
       "changes": [
-        "New keys row: Tab, arrows, | > && / ~ - \" * and Ctrl-C.",
-        "Tab completes command names and file/folder names like a real shell; ↓ goes forward in history."
+        "New 'history' command, plus '!!' to rerun the last command and '!7' to rerun line 7.",
+        "Opens in the folder you were last in, instead of starting over."
       ],
       "versionCode": 3,
       "versionName": "1.2",
@@ -76,8 +74,9 @@
       "icon": "weather",
       "description": "Live weather where you are and anywhere you save: hourly, 7-day, rain alerts at a glance.",
       "changes": [
-        "Home-screen widget with the current weather (long-press your home screen › Widgets › Ghost Weather).",
-        "Share forecast from the menu."
+        "\"2° warmer than this time yesterday\" under the big temperature, so you know how to dress.",
+        "A Tomorrow pill on the front: emoji, high/low and rain chance at a glance.",
+        "The widget now shows today's rain chance too."
       ],
       "versionCode": 3,
       "versionName": "1.1",
@@ -92,19 +91,17 @@
       "icon": "school",
       "description": "Homework, timetable, grades, targets, exams and revision, with XP, levels and badges.",
       "changes": [
-        "Timetable tab, with what's on now and next on Home.",
-        "Exam countdowns, and targets per subject (tap a subject in Grades).",
-        "XP, levels and 17 badges to unlock, plus a daily goal ring and a 12-week study map.",
-        "Flashcards: paste a whole list at once, and an Answer first mode.",
-        "Quick-fire: new Squares & roots and Percentages modes.",
-        "Star important homework, back up and restore all your data, and a centred bottom bar."
+        "Two-week timetables: turn on Week A / Week B in the menu, and Home's now/next follows the right week.",
+        "Homework can have notes (page numbers, what to hand in), shown on the list and on Home.",
+        "The daily reminder now also warns about exams: the evening before and a week out. Pick its time in the menu.",
+        "The focus timer shows a live countdown in your notifications while you're in other apps."
       ],
-      "versionCode": 24,
-      "versionName": "2.4",
-      "size": 4704968,
-      "sha256": "6e5f7b13f7cb2be8cb10629d664ac12fcdd5df73842358cb0d6528f0f97b84e8",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.school-24-6e5f7b13f7/com.ghost.school-24-6e5f7b13f7.apk",
-      "published": 1790188440
+      "versionCode": 25,
+      "versionName": "2.5",
+      "size": 4710936,
+      "sha256": "2b0ddfaae60f1e103af19838d2c4c2cdfd67b34bf37e8d6c611fe64ccd21d09d",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.school-25-2b0ddfaae6/com.ghost.school-25-2b0ddfaae6.apk",
+      "published": 1790206956
     },
     {
       "package": "com.ghost.editor",
@@ -112,8 +109,10 @@
       "icon": "editor",
       "description": "Crop, rotate, filters, adjust, draw and add text to your photos. Nothing leaves your phone.",
       "changes": [
-        "Bottom tool bar and panels are now properly centred.",
-        "Emoji stickers and a Vignette slider."
+        "Straighten: a tilt slider in Rotate fixes a wonky horizon, with a grid to line up against.",
+        "Pixelate and Marker brushes in Draw: blur out faces or private details before you share.",
+        "✨ Auto in Adjust gives a photo a quick lift in one tap.",
+        "Tap empty space to deselect text; a new photo no longer inherits the last one's vignette."
       ],
       "versionCode": 3,
       "versionName": "1.2",
@@ -128,8 +127,8 @@
       "icon": "vpn",
       "description": "One-tap VPN through free volunteer servers in many countries. Tests servers from your phone to find the fastest.",
       "changes": [
-        "Data used this session, shown under the timer.",
-        "Recent countries as one-tap chips, and an option to connect when you open the app."
+        "If the tunnel drops on its own, Ghost VPN now reconnects to the same country (turn off in the menu).",
+        "Tap your IP address to copy it."
       ],
       "versionCode": 2,
       "versionName": "1.1",
@@ -144,9 +143,9 @@
       "icon": "browser",
       "description": "A private browser: ad & tracker blocker, incognito tabs, and sites forget you when you leave.",
       "changes": [
-        "Pull down to refresh.",
-        "Add to start page: pin your own sites next to the shortcuts (long-press to remove).",
-        "Plus the security update: incognito tabs, forget me, site security panel, stronger ad blocker."
+        "Print or save any page as a PDF from the menu, great for homework and tickets.",
+        "Text size setting (70–200%) with a live preview, for every page.",
+        "Tidier menu ordering."
       ],
       "versionCode": 3,
       "versionName": "2.1",
@@ -161,8 +160,9 @@
       "icon": "video",
       "description": "Video editor: trim, filters, colour, speed, rotate, captions and sound. Saved on your phone.",
       "changes": [
-        "Tool bar spread evenly and centred, and panel buttons centred.",
-        "Save a frame as a photo (📸)."
+        "Crop to a shape in Size: Square, Story 9:16, Portrait 4:5 or Wide 16:9, with a bright box showing what's kept.",
+        "The trim slider now sits on a film strip of your video, so you can see where you're cutting.",
+        "🔁 next to the seek bar repeats the trimmed part while you fine-tune it."
       ],
       "versionCode": 2,
       "versionName": "1.1",
