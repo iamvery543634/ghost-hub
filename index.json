@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790207033,
+  "updated": 1790207054,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -29,12 +29,12 @@
         "Long-press the status chip to copy your fake coordinates.",
         "Clearer walking status while heading back on a route."
       ],
-      "versionCode": 6,
-      "versionName": "2.0",
+      "versionCode": 7,
+      "versionName": "2.1",
       "size": 17456869,
-      "sha256": "bf2c82894cefbc0f452d33e85e5e299acaa2b712e39cf61f9db0608088fb5499",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.mirage.gps-6-bf2c82894c/com.mirage.gps-6-bf2c82894c.apk",
-      "published": 1790201630
+      "sha256": "b687fca14519efd427a5370bc9bb09723ae7aa7cd87556adb8738c7fcb9aec06",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.mirage.gps-7-b687fca145/com.mirage.gps-7-b687fca145.apk",
+      "published": 1790207042
     },
     {
       "package": "com.ghost.volume",
