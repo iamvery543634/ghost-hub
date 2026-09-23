@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790206988,
+  "updated": 1790207001,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -78,12 +78,12 @@
         "A Tomorrow pill on the front: emoji, high/low and rain chance at a glance.",
         "The widget now shows today's rain chance too."
       ],
-      "versionCode": 3,
-      "versionName": "1.1",
-      "size": 4654057,
-      "sha256": "194956de2c7150bab28923057f2d88420c7d050dfb8e6bbb2f6fcfebefe97af6",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.weather-3-194956de2c/com.ghost.weather-3-194956de2c.apk",
-      "published": 1790186855
+      "versionCode": 4,
+      "versionName": "1.2",
+      "size": 4655233,
+      "sha256": "69faee6cff2ed7f650f572b21897076448028d26ca9bd1eb82edcaacd2274570",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.weather-4-69faee6cff/com.ghost.weather-4-69faee6cff.apk",
+      "published": 1790206997
     },
     {
       "package": "com.ghost.school",
