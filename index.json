@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790207001,
+  "updated": 1790207014,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -147,12 +147,12 @@
         "Text size setting (70–200%) with a live preview, for every page.",
         "Tidier menu ordering."
       ],
-      "versionCode": 3,
-      "versionName": "2.1",
-      "size": 4862868,
-      "sha256": "f765937d48c734c2b8415063645c9d4e687ce0beb987e318c8b004f0af57538d",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.browser-3-f765937d48/com.ghost.browser-3-f765937d48.apk",
-      "published": 1790187055
+      "versionCode": 4,
+      "versionName": "2.2",
+      "size": 4864048,
+      "sha256": "d765d9a626ba4b5bdaf5d04cba1f1965e43175295f416c7d6838e25de26cb544",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.browser-4-d765d9a626/com.ghost.browser-4-d765d9a626.apk",
+      "published": 1790207011
     },
     {
       "package": "com.ghost.video",
