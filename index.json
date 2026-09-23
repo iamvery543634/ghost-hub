@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790207090,
+  "updated": 1790207568,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -8,16 +8,16 @@
       "icon": "hub",
       "description": "Every Ghost app in one place. Install and update them anywhere, from GitHub or your PC.",
       "changes": [
-        "Update checks keep working after your phone restarts.",
-        "\"Update all\" shows how much it will download.",
-        "Downloaded installers are cleaned up once an app is installed."
+        "Update all now installs the apps in one go, without you tapping through a screen for each one.",
+        "The first time Ghost Hub updates an app, Android still asks once. After that its updates are silent.",
+        "Background update checks survive a restart, and old downloads are cleared automatically."
       ],
-      "versionCode": 8,
-      "versionName": "2.2",
-      "size": 4683634,
-      "sha256": "fa65bda9d2381c63baa6e0aaa6a25b5674099dab158a286d0fe427a15186e7d7",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-8-fa65bda9d2/com.ghost.hub-8-fa65bda9d2.apk",
-      "published": 1790207086
+      "versionCode": 9,
+      "versionName": "2.3",
+      "size": 4686486,
+      "sha256": "a1ca7e61fa374570406ef01d1714b0ef70fd29b67ee36a73c4d38bee75871272",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-9-a1ca7e61fa/com.ghost.hub-9-a1ca7e61fa.apk",
+      "published": 1790207564
     },
     {
       "package": "com.mirage.gps",
