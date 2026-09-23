@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790207054,
+  "updated": 1790207066,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -61,12 +61,12 @@
         "New 'history' command, plus '!!' to rerun the last command and '!7' to rerun line 7.",
         "Opens in the folder you were last in, instead of starting over."
       ],
-      "versionCode": 3,
-      "versionName": "1.2",
-      "size": 4635893,
-      "sha256": "83cd074ad67576d2fece9654f28ec0c6d3c287d8abb0318778060b2f405100fa",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.terminal-3-83cd074ad6/com.ghost.terminal-3-83cd074ad6.apk",
-      "published": 1790186795
+      "versionCode": 4,
+      "versionName": "1.3",
+      "size": 4636321,
+      "sha256": "54319c6bf8dc03055c93615527f47f3419d959f803ea994480bff6776ec47dfd",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.terminal-4-54319c6bf8/com.ghost.terminal-4-54319c6bf8.apk",
+      "published": 1790207062
     },
     {
       "package": "com.ghost.weather",
