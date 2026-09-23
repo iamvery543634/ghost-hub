@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790207079,
+  "updated": 1790207090,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -12,12 +12,12 @@
         "\"Update all\" shows how much it will download.",
         "Downloaded installers are cleaned up once an app is installed."
       ],
-      "versionCode": 7,
-      "versionName": "2.1",
-      "size": 4682734,
-      "sha256": "1964622d5ab40bde562f70af508f5ac49b47f986c7dbf92573e882c3545dfbfc",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-7-1964622d5a/com.ghost.hub-7-1964622d5a.apk",
-      "published": 1790204681
+      "versionCode": 8,
+      "versionName": "2.2",
+      "size": 4683634,
+      "sha256": "fa65bda9d2381c63baa6e0aaa6a25b5674099dab158a286d0fe427a15186e7d7",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-8-fa65bda9d2/com.ghost.hub-8-fa65bda9d2.apk",
+      "published": 1790207086
     },
     {
       "package": "com.mirage.gps",
