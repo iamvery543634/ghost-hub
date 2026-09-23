@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790207066,
+  "updated": 1790207079,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -130,12 +130,12 @@
         "If the tunnel drops on its own, Ghost VPN now reconnects to the same country (turn off in the menu).",
         "Tap your IP address to copy it."
       ],
-      "versionCode": 2,
-      "versionName": "1.1",
-      "size": 4653121,
-      "sha256": "4e71a24f6d0b2f59e789badbe9a74d5c2333945ae3998b350e0439fe310454bd",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.vpn-2-4e71a24f6d/com.ghost.vpn-2-4e71a24f6d.apk",
-      "published": 1790187009
+      "versionCode": 3,
+      "versionName": "1.2",
+      "size": 4653049,
+      "sha256": "b5af45f4e7329f6294583323568b5df67498f8ba08bada4801d293f4bed33eda",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.vpn-3-b5af45f4e7/com.ghost.vpn-3-b5af45f4e7.apk",
+      "published": 1790207075
     },
     {
       "package": "com.ghost.browser",
