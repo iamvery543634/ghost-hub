@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790206973,
+  "updated": 1790206988,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -164,12 +164,12 @@
         "The trim slider now sits on a film strip of your video, so you can see where you're cutting.",
         "🔁 next to the seek bar repeats the trimmed part while you fine-tune it."
       ],
-      "versionCode": 2,
-      "versionName": "1.1",
-      "size": 7419603,
-      "sha256": "20f7b71acb686937a4639c9851ccc542cb5778e5a9c9e653e69be60483b8d5e2",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.video-2-20f7b71acb/com.ghost.video-2-20f7b71acb.apk",
-      "published": 1790188114
+      "versionCode": 3,
+      "versionName": "1.2",
+      "size": 7424291,
+      "sha256": "9872b98b8ada949d643b0f7f036c4ad0c26b724f05fd4d14b4bd7d5b700a3b45",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.video-3-9872b98b8a/com.ghost.video-3-9872b98b8a.apk",
+      "published": 1790206984
     }
   ]
 }
