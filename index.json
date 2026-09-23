@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790206959,
+  "updated": 1790206973,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -114,12 +114,12 @@
         "✨ Auto in Adjust gives a photo a quick lift in one tap.",
         "Tap empty space to deselect text; a new photo no longer inherits the last one's vignette."
       ],
-      "versionCode": 3,
-      "versionName": "1.2",
-      "size": 4646564,
-      "sha256": "ef0f9790e51a460e53e895373719013e8d6ffca5a6e9e6bf8e3e5f6326f78098",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.editor-3-ef0f9790e5/com.ghost.editor-3-ef0f9790e5.apk",
-      "published": 1790188105
+      "versionCode": 4,
+      "versionName": "1.3",
+      "size": 4650080,
+      "sha256": "cec059e75c52053ee9a03caa0585f9cc93eccce2f166154c7ee06c9bda763b8b",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.editor-4-cec059e75c/com.ghost.editor-4-cec059e75c.apk",
+      "published": 1790206970
     },
     {
       "package": "com.ghost.vpn",
