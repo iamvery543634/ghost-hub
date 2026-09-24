@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790292440,
+  "updated": 1790292451,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -13,12 +13,12 @@
         "Share any app's download link from its page. The ghosts in the background got the new cute look.",
         "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
       ],
-      "versionCode": 15,
-      "versionName": "2.9",
-      "size": 4709712,
-      "sha256": "e7e4f95961c369a837cf4a50934340c327ff8267c6233e0ddc87d789ef2b1a60",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-15-e7e4f95961/com.ghost.hub-15-e7e4f95961.apk",
-      "published": 1790289725
+      "versionCode": 16,
+      "versionName": "3.0",
+      "size": 4722034,
+      "sha256": "733aef5b4a142b601e48c8aa702681a14e22e3979e6871641376facc83bb726a",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-16-733aef5b4a/com.ghost.hub-16-733aef5b4a.apk",
+      "published": 1790292447
     },
     {
       "package": "com.mirage.gps",
