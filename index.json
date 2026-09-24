@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790292255,
+  "updated": 1790292266,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -152,12 +152,12 @@
         "Tidier start page with a greeting and privacy stat tiles.",
         "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
       ],
-      "versionCode": 5,
-      "versionName": "2.3",
-      "size": 4870032,
-      "sha256": "62ecbc15162fb04f49cd429f100805fe59989c8696d4b0d50fb3dc396e6747dd",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.browser-5-62ecbc1516/com.ghost.browser-5-62ecbc1516.apk",
-      "published": 1790260935
+      "versionCode": 6,
+      "versionName": "3.0",
+      "size": 4886022,
+      "sha256": "61dadb97614a0c4be9a6c071b2ebf8eb7955b04ff0fc6c5cef273b7ae668abd6",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.browser-6-61dadb9761/com.ghost.browser-6-61dadb9761.apk",
+      "published": 1790292262
     },
     {
       "package": "com.ghost.video",
