@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790292412,
+  "updated": 1790292426,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -220,12 +220,12 @@
         "New game: type a function to shoot, just like Graphwar. y =, y' and y'' boxes, 6 kinds of map, 1-4 ghosts a team.",
         "Play easy, normal or hard bots, or pass the phone to a friend."
       ],
-      "versionCode": 1,
-      "versionName": "1.0",
-      "size": 4647587,
-      "sha256": "1ed4b99bfb1afa50f9aa83878cef42033e9c4bd324ac11645e6d6bb037e59844",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.graphwar-1-1ed4b99bfb/com.ghost.graphwar-1-1ed4b99bfb.apk",
-      "published": 1790287495
+      "versionCode": 2,
+      "versionName": "1.1",
+      "size": 4655741,
+      "sha256": "bb9c443945819d3d79a1821af72fdf9ecdd1b01a9c1ea64521a9a33e407a137b",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.graphwar-2-bb9c443945/com.ghost.graphwar-2-bb9c443945.apk",
+      "published": 1790292421
     },
     {
       "package": "com.ghost.cookie",
