@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790292360,
+  "updated": 1790292380,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -169,12 +169,12 @@
         "Crop to a shape (Square, Story, Portrait, Wide) with a live crop box.",
         "Join clips: add more videos to play after this one when you export."
       ],
-      "versionCode": 4,
-      "versionName": "1.3",
-      "size": 7427819,
-      "sha256": "980aebb477e2f5d96c6b768c81973a1b2fa4e7b61f0f5d0f3fb7a939a3e9dc55",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.video-4-980aebb477/com.ghost.video-4-980aebb477.apk",
-      "published": 1790260852
+      "versionCode": 5,
+      "versionName": "1.4",
+      "size": 7436133,
+      "sha256": "fa385797e43c181e04ae862ffe9ac8bad18a1bfba2da6714aad94157b6ecb293",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.video-5-fa385797e4/com.ghost.video-5-fa385797e4.apk",
+      "published": 1790292375
     },
     {
       "package": "com.ghost.dice",
