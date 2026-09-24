@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790261018,
+  "updated": 1790261046,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -65,12 +65,12 @@
         "Find in output (menu), and tap the prompt to jump to ~, /sdcard, Downloads or /.",
         "Pin favourite commands, make aliases (alias ll='ls -la'), 'history', '!!' and '!7', and it remembers your folder."
       ],
-      "versionCode": 4,
-      "versionName": "1.3",
-      "size": 4636321,
-      "sha256": "54319c6bf8dc03055c93615527f47f3419d959f803ea994480bff6776ec47dfd",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.terminal-4-54319c6bf8/com.ghost.terminal-4-54319c6bf8.apk",
-      "published": 1790207062
+      "versionCode": 5,
+      "versionName": "1.4",
+      "size": 4644137,
+      "sha256": "fa6eba3df67627bcc747040ef4b93f7b79fbe150bd3496d116e41967ae143eae",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.terminal-5-fa6eba3df6/com.ghost.terminal-5-fa6eba3df6.apk",
+      "published": 1790261030
     },
     {
       "package": "com.ghost.weather",
