@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790287508,
+  "updated": 1790287528,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -12,12 +12,12 @@
         "Update all installs your apps in one go. The first time it updates an app Android asks once, then updates are silent.",
         "Update all shows how much it will download, and the notification lists each app's new version."
       ],
-      "versionCode": 11,
-      "versionName": "2.5",
-      "size": 4692267,
-      "sha256": "b04fff83a81ff5fe28a6c9afd1a77b855a6d07c628b74cf3c0895c34f765c0fb",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-11-b04fff83a8/com.ghost.hub-11-b04fff83a8.apk",
-      "published": 1790261715
+      "versionCode": 12,
+      "versionName": "2.6",
+      "size": 4696471,
+      "sha256": "7ae65c3a963105bce671968bad94542fb509b75fb80cdf5f21fa182e2f141ddf",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-12-7ae65c3a96/com.ghost.hub-12-7ae65c3a96.apk",
+      "published": 1790287522
     },
     {
       "package": "com.mirage.gps",
