@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790260980,
+  "updated": 1790261018,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -30,12 +30,12 @@
         "There & back: long-press Loop to walk a route out and home again, on repeat.",
         "Long-press the app icon to teleport straight to a favourite; long-press Live to copy your fake coordinates."
       ],
-      "versionCode": 7,
-      "versionName": "2.1",
-      "size": 17456869,
-      "sha256": "b687fca14519efd427a5370bc9bb09723ae7aa7cd87556adb8738c7fcb9aec06",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.mirage.gps-7-b687fca145/com.mirage.gps-7-b687fca145.apk",
-      "published": 1790207042
+      "versionCode": 8,
+      "versionName": "3.0",
+      "size": 17460368,
+      "sha256": "a85162d827f9568b90c033b2eddaf5932dcc05ebeb14b7982fc68178853f95d4",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.mirage.gps-8-a85162d827/com.mirage.gps-8-a85162d827.apk",
+      "published": 1790260998
     },
     {
       "package": "com.ghost.volume",
