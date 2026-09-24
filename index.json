@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790261046,
+  "updated": 1790261098,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -136,12 +136,12 @@
         "Long-press the big button to connect to the fastest country, and Measure speed runs a real download test.",
         "Tap your IP address to copy it."
       ],
-      "versionCode": 3,
-      "versionName": "1.2",
-      "size": 4653049,
-      "sha256": "b5af45f4e7329f6294583323568b5df67498f8ba08bada4801d293f4bed33eda",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.vpn-3-b5af45f4e7/com.ghost.vpn-3-b5af45f4e7.apk",
-      "published": 1790207075
+      "versionCode": 4,
+      "versionName": "1.3",
+      "size": 4655097,
+      "sha256": "99b019015291d1dd9449c598f7a2118b64323c14c964079a688a97c18f2b7cd0",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.vpn-4-99b0190152/com.ghost.vpn-4-99b0190152.apk",
+      "published": 1790261086
     },
     {
       "package": "com.ghost.browser",
