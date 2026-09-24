@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790288878,
+  "updated": 1790288892,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -12,12 +12,12 @@
         "Updates itself: every few hours in the background, and as soon as you open it. No more tapping Update.",
         "Apps Ghost Hub installed update silently (⚡). Others ask once with a notification, then they're silent too."
       ],
-      "versionCode": 13,
-      "versionName": "2.7",
-      "size": 4705523,
-      "sha256": "200e385f0b483bc980e2086462a636fd8025ee2654718c89875f190628d262e5",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-13-200e385f0b/com.ghost.hub-13-200e385f0b.apk",
-      "published": 1790287997
+      "versionCode": 14,
+      "versionName": "2.8",
+      "size": 4707392,
+      "sha256": "62b3eae69be8eff61bc7098478d673595bd53f02e54677cd3b3609de351cc7c5",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-14-62b3eae69b/com.ghost.hub-14-62b3eae69b.apk",
+      "published": 1790288888
     },
     {
       "package": "com.mirage.gps",
