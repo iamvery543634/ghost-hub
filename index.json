@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790260797,
+  "updated": 1790260835,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -118,12 +118,12 @@
         "Straighten slider, plus Blur, Pixelate and Marker brushes to hide private details.",
         "✨ Auto in Adjust, and long-press Save to pick the size (full, 1080, 720) or PNG."
       ],
-      "versionCode": 4,
-      "versionName": "1.3",
-      "size": 4650080,
-      "sha256": "cec059e75c52053ee9a03caa0585f9cc93eccce2f166154c7ee06c9bda763b8b",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.editor-4-cec059e75c/com.ghost.editor-4-cec059e75c.apk",
-      "published": 1790206970
+      "versionCode": 5,
+      "versionName": "1.4",
+      "size": 4653316,
+      "sha256": "ec6c6d3f0c02daa75c1785c8fa7d1f24d0cedab2c12bdd29f89c732c3401264e",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.editor-5-ec6c6d3f0c/com.ghost.editor-5-ec6c6d3f0c.apk",
+      "published": 1790260815
     },
     {
       "package": "com.ghost.vpn",
