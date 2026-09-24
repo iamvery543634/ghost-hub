@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790288892,
+  "updated": 1790289715,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -8,7 +8,7 @@
       "icon": "hub",
       "description": "Every Ghost app in one place. Install and update them anywhere, from GitHub or your PC.",
       "changes": [
-        "New app to try: Ghost Invest (practice investing with real prices).",
+        "New app to try: Ghost Bot (a pretend-money meme-coin trading bot).",
         "Updates itself: every few hours in the background, and as soon as you open it. No more tapping Update.",
         "Apps Ghost Hub installed update silently (⚡). Others ask once with a notification, then they're silent too."
       ],
@@ -258,6 +258,23 @@
       "sha256": "7ed3ce5f6513ce49aa04f88ea23ffbd1bfba0c85cb59046345584f36cd23daf2",
       "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.invest-1-7ed3ce5f65/com.ghost.invest-1-7ed3ce5f65.apk",
       "published": 1790288874
+    },
+    {
+      "package": "com.ghost.bot",
+      "name": "Ghost Bot",
+      "icon": "bot",
+      "description": "A meme-coin trading bot with its own pretend-money wallet, trading at real live prices.",
+      "changes": [
+        "New app: send the bot's wallet pretend money, press Start, and it trades meme coins at live prices by itself.",
+        "Three strategies: Meme hunter (chases the biggest pump), Dip buyer and Momentum rider.",
+        "Press Stop to cash out and get a report: what you gave it, what it gave back, and the profit or loss."
+      ],
+      "versionCode": 1,
+      "versionName": "1.0",
+      "size": 4642791,
+      "sha256": "10a676beaf75e716e11f937822c87b445c1256c8be49fd31e062c9ff45b6718d",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.bot-1-10a676beaf/com.ghost.bot-1-10a676beaf.apk",
+      "published": 1790289711
     }
   ]
 }
