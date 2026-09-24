@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790287528,
+  "updated": 1790288002,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -8,16 +8,16 @@
       "icon": "hub",
       "description": "Every Ghost app in one place. Install and update them anywhere, from GitHub or your PC.",
       "changes": [
-        "Two new games: Ghost Graph War (with cheats) and Ghost Cookie Clicker.",
-        "Update all installs your apps in one go. The first time it updates an app Android asks once, then updates are silent.",
-        "Update all shows how much it will download, and the notification lists each app's new version."
+        "Updates itself: every few hours in the background, and as soon as you open it. No more tapping Update.",
+        "Apps Ghost Hub installed update silently (⚡). Others ask once with a notification, then they're silent too.",
+        "A new haunted night-sky background with stars, moon, aurora, drifting ghosts and fog."
       ],
-      "versionCode": 12,
-      "versionName": "2.6",
-      "size": 4696471,
-      "sha256": "7ae65c3a963105bce671968bad94542fb509b75fb80cdf5f21fa182e2f141ddf",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-12-7ae65c3a96/com.ghost.hub-12-7ae65c3a96.apk",
-      "published": 1790287522
+      "versionCode": 13,
+      "versionName": "2.7",
+      "size": 4705523,
+      "sha256": "200e385f0b483bc980e2086462a636fd8025ee2654718c89875f190628d262e5",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-13-200e385f0b/com.ghost.hub-13-200e385f0b.apk",
+      "published": 1790287997
     },
     {
       "package": "com.mirage.gps",
