@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790261669,
+  "updated": 1790261704,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -192,6 +192,21 @@
       "sha256": "7bd63507faaa18efa5b558e352affd8b10c3d129a128ac292a3f5ea9a06e2b78",
       "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.dice-1-7bd63507fa/com.ghost.dice-1-7bd63507fa.apk",
       "published": 1790261658
+    },
+    {
+      "package": "com.ghost.counter",
+      "name": "Ghost Counter",
+      "icon": "counter",
+      "description": "Count anything with a tap.",
+      "changes": [
+        "New app: a big tap counter with +1/+2/+5/+10 steps, a name for what you're counting, and your highest count remembered."
+      ],
+      "versionCode": 1,
+      "versionName": "1.0",
+      "size": 4609435,
+      "sha256": "36c5c4eaa980a9ca610224907e6407743713aa78ba288e740f75b1915cb0d443",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.counter-1-36c5c4eaa9/com.ghost.counter-1-36c5c4eaa9.apk",
+      "published": 1790261685
     }
   ]
 }
