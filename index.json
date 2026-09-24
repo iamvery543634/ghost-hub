@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790260919,
+  "updated": 1790260939,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -154,12 +154,12 @@
         "Print or save any page as a PDF, and a text size setting for every page.",
         "Downloads is now one tap away in the menu."
       ],
-      "versionCode": 4,
-      "versionName": "2.2",
-      "size": 4864048,
-      "sha256": "d765d9a626ba4b5bdaf5d04cba1f1965e43175295f416c7d6838e25de26cb544",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.browser-4-d765d9a626/com.ghost.browser-4-d765d9a626.apk",
-      "published": 1790207011
+      "versionCode": 5,
+      "versionName": "2.3",
+      "size": 4870032,
+      "sha256": "62ecbc15162fb04f49cd429f100805fe59989c8696d4b0d50fb3dc396e6747dd",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.browser-5-62ecbc1516/com.ghost.browser-5-62ecbc1516.apk",
+      "published": 1790260935
     },
     {
       "package": "com.ghost.video",
