@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790292228,
+  "updated": 1790292244,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -31,12 +31,12 @@
         "New Routes sheet, rename saved routes, and rename favourites (long-press a favourite).",
         "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
       ],
-      "versionCode": 8,
-      "versionName": "3.0",
-      "size": 17460368,
-      "sha256": "a85162d827f9568b90c033b2eddaf5932dcc05ebeb14b7982fc68178853f95d4",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.mirage.gps-8-a85162d827/com.mirage.gps-8-a85162d827.apk",
-      "published": 1790260998
+      "versionCode": 9,
+      "versionName": "3.1",
+      "size": 17470386,
+      "sha256": "1732ec0ac1a13cdee0ba71d28f41bdf68e854019d78516a9156921f7b0f3cd0b",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.mirage.gps-9-1732ec0ac1/com.mirage.gps-9-1732ec0ac1.apk",
+      "published": 1790292235
     },
     {
       "package": "com.ghost.volume",
