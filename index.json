@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790292312,
+  "updated": 1790292326,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -65,12 +65,12 @@
         "Small test update: checks Ghost Hub can now update apps without asking you.",
         "Colour output: 'ls --color' and friends now show real colours instead of odd symbols."
       ],
-      "versionCode": 6,
-      "versionName": "1.4.1",
-      "size": 4643937,
-      "sha256": "b65fecbb25f719d212c62e46539c5362691f672c90847a771c9e3ab69bc6c344",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.terminal-6-b65fecbb25/com.ghost.terminal-6-b65fecbb25.apk",
-      "published": 1790261394
+      "versionCode": 7,
+      "versionName": "1.4.2",
+      "size": 4652279,
+      "sha256": "e96d3fc522d7ba317407ecb5bad78965ed5f0ba5c6c172cec2aa12c3b188a9f9",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.terminal-7-e96d3fc522/com.ghost.terminal-7-e96d3fc522.apk",
+      "published": 1790292322
     },
     {
       "package": "com.ghost.weather",
