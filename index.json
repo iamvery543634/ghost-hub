@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790207568,
+  "updated": 1790260797,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -8,9 +8,9 @@
       "icon": "hub",
       "description": "Every Ghost app in one place. Install and update them anywhere, from GitHub or your PC.",
       "changes": [
-        "Update all now installs the apps in one go, without you tapping through a screen for each one.",
-        "The first time Ghost Hub updates an app, Android still asks once. After that its updates are silent.",
-        "Background update checks survive a restart, and old downloads are cleared automatically."
+        "Update all installs your apps in one go. The first time it updates an app Android asks once, then updates are silent.",
+        "Update all shows how much it will download, and the notification lists each app's new version.",
+        "App info and Uninstall buttons in each app's details. Update checks keep working after a restart."
       ],
       "versionCode": 9,
       "versionName": "2.3",
@@ -25,9 +25,10 @@
       "icon": "ghost",
       "description": "Set your location anywhere: teleport, walk a route or steer with the joystick.",
       "changes": [
-        "There & back: long-press Loop to walk a route out and home along the same path, on repeat.",
-        "Long-press the status chip to copy your fake coordinates.",
-        "Clearer walking status while heading back on a route."
+        "New compact look: one slim search pill at the top and a small glass dock at the bottom, so the map gets almost the whole screen.",
+        "Fold the dock down to just its tabs with the ⌄ button, and a pulsing Live dot shows when your location is being changed.",
+        "There & back: long-press Loop to walk a route out and home again, on repeat.",
+        "Long-press the app icon to teleport straight to a favourite; long-press Live to copy your fake coordinates."
       ],
       "versionCode": 7,
       "versionName": "2.1",
@@ -42,8 +43,9 @@
       "icon": "volume",
       "description": "Your own volume for every app, switched automatically when you open it.",
       "changes": [
-        "Quick Settings tile: pause or resume per-app volume straight from the notification shade.",
-        "Long-press an app in your list to remove it quickly."
+        "Headphone volume limit: cap media volume whenever headphones or Bluetooth are connected, to look after your ears.",
+        "Sound / Vibrate / Silent buttons for your ringer, right above the system volumes.",
+        "Quick Settings tile to pause or resume per-app volume, and long-press an app to remove it."
       ],
       "versionCode": 6,
       "versionName": "2.1",
@@ -58,8 +60,10 @@
       "icon": "terminal",
       "description": "A shell on your phone, with a side list of commands that work on your device.",
       "changes": [
-        "New 'history' command, plus '!!' to rerun the last command and '!7' to rerun line 7.",
-        "Opens in the folder you were last in, instead of starting over."
+        "Colour output: 'ls --color' and friends now show real colours instead of odd symbols.",
+        "Slow commands say how long they took, failures show in red, and a cyan light sweeps under the bar while a command runs.",
+        "Find in output (menu), and tap the prompt to jump to ~, /sdcard, Downloads or /.",
+        "Pin favourite commands, make aliases (alias ll='ls -la'), 'history', '!!' and '!7', and it remembers your folder."
       ],
       "versionCode": 4,
       "versionName": "1.3",
@@ -74,9 +78,10 @@
       "icon": "weather",
       "description": "Live weather where you are and anywhere you save: hourly, 7-day, rain alerts at a glance.",
       "changes": [
-        "\"2° warmer than this time yesterday\" under the big temperature, so you know how to dress.",
-        "A Tomorrow pill on the front: emoji, high/low and rain chance at a glance.",
-        "The widget now shows today's rain chance too."
+        "New Air quality tile (with PM2.5) and a Daylight tile that says if tomorrow is longer or shorter.",
+        "Optional morning rain alert at 7:30 when rain is likely today.",
+        "Rain chance bars for the next 24 hours, and \"warmer/colder than yesterday\" under the temperature.",
+        "A Tomorrow pill on the front, and the widget shows today's rain chance."
       ],
       "versionCode": 4,
       "versionName": "1.2",
@@ -91,17 +96,17 @@
       "icon": "school",
       "description": "Homework, timetable, grades, targets, exams and revision, with XP, levels and badges.",
       "changes": [
-        "Two-week timetables: turn on Week A / Week B in the menu, and Home's now/next follows the right week.",
-        "Homework can have notes (page numbers, what to hand in), shown on the list and on Home.",
-        "The daily reminder now also warns about exams: the evening before and a week out. Pick its time in the menu.",
-        "The focus timer shows a live countdown in your notifications while you're in other apps."
+        "Home-screen widget: what's on now or next, and how much homework is due.",
+        "Two-week timetables (Week A / Week B), homework notes, and your own reminder time with exam heads-ups.",
+        "Grades tell you what you need next time to hit your target, and Quick-fire has Fractions and Negative numbers.",
+        "The focus timer shows a live countdown in your notifications."
       ],
-      "versionCode": 25,
-      "versionName": "2.5",
-      "size": 4710936,
-      "sha256": "2b0ddfaae60f1e103af19838d2c4c2cdfd67b34bf37e8d6c611fe64ccd21d09d",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.school-25-2b0ddfaae6/com.ghost.school-25-2b0ddfaae6.apk",
-      "published": 1790206956
+      "versionCode": 26,
+      "versionName": "2.6",
+      "size": 4716192,
+      "sha256": "e968fd9327b2725b36fb3e4035270cf8a7e1d75452d988533f97e7b00444c1ee",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.school-26-e968fd9327/com.ghost.school-26-e968fd9327.apk",
+      "published": 1790260775
     },
     {
       "package": "com.ghost.editor",
@@ -109,10 +114,9 @@
       "icon": "editor",
       "description": "Crop, rotate, filters, adjust, draw and add text to your photos. Nothing leaves your phone.",
       "changes": [
-        "Straighten: a tilt slider in Rotate fixes a wonky horizon, with a grid to line up against.",
-        "Pixelate and Marker brushes in Draw: blur out faces or private details before you share.",
-        "✨ Auto in Adjust gives a photo a quick lift in one tap.",
-        "Tap empty space to deselect text; a new photo no longer inherits the last one's vignette."
+        "New Frame tool: add a border, or make a photo square with a colour or blurred background.",
+        "Straighten slider, plus Blur, Pixelate and Marker brushes to hide private details.",
+        "✨ Auto in Adjust, and long-press Save to pick the size (full, 1080, 720) or PNG."
       ],
       "versionCode": 4,
       "versionName": "1.3",
@@ -127,7 +131,9 @@
       "icon": "vpn",
       "description": "One-tap VPN through free volunteer servers in many countries. Tests servers from your phone to find the fastest.",
       "changes": [
-        "If the tunnel drops on its own, Ghost VPN now reconnects to the same country (turn off in the menu).",
+        "Reconnects to the same country if the tunnel drops on its own (switch off in the menu).",
+        "Recent sessions in the menu: where you connected, for how long and how much data; tap one to go there again.",
+        "Long-press the big button to connect to the fastest country, and Measure speed runs a real download test.",
         "Tap your IP address to copy it."
       ],
       "versionCode": 3,
@@ -143,9 +149,10 @@
       "icon": "browser",
       "description": "A private browser: ad & tracker blocker, incognito tabs, and sites forget you when you leave.",
       "changes": [
-        "Print or save any page as a PDF from the menu, great for homework and tickets.",
-        "Text size setting (70–200%) with a live preview, for every page.",
-        "Tidier menu ordering."
+        "📖 Reader view: just the words of an article in a clean, easy-to-read sheet, with a reading time.",
+        "Bookmarks: save pages with ☆ in the menu and open them from the start page. Kept only on your phone.",
+        "Print or save any page as a PDF, and a text size setting for every page.",
+        "Downloads is now one tap away in the menu."
       ],
       "versionCode": 4,
       "versionName": "2.2",
@@ -160,9 +167,10 @@
       "icon": "video",
       "description": "Video editor: trim, filters, colour, speed, rotate, captions and sound. Saved on your phone.",
       "changes": [
-        "Crop to a shape in Size: Square, Story 9:16, Portrait 4:5 or Wide 16:9, with a bright box showing what's kept.",
-        "The trim slider now sits on a film strip of your video, so you can see where you're cutting.",
-        "🔁 next to the seek bar repeats the trimmed part while you fine-tune it."
+        "Crop to a shape (Square, Story, Portrait, Wide) with a live crop box.",
+        "Join clips: add more videos to play after this one when you export.",
+        "Sound: new Quiet and Fade in/out options.",
+        "Film-strip trim slider and a 🔁 loop preview."
       ],
       "versionCode": 3,
       "versionName": "1.2",
