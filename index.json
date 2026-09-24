@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790261127,
+  "updated": 1790261415,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -60,17 +60,16 @@
       "icon": "terminal",
       "description": "A shell on your phone, with a side list of commands that work on your device.",
       "changes": [
+        "Small test update: checks Ghost Hub can now update apps without asking you.",
         "Colour output: 'ls --color' and friends now show real colours instead of odd symbols.",
-        "Slow commands say how long they took, failures show in red, and a cyan light sweeps under the bar while a command runs.",
-        "Find in output (menu), and tap the prompt to jump to ~, /sdcard, Downloads or /.",
-        "Pin favourite commands, make aliases (alias ll='ls -la'), 'history', '!!' and '!7', and it remembers your folder."
+        "Slow commands say how long they took, failures show in red, and a cyan light sweeps under the bar while a command runs."
       ],
-      "versionCode": 5,
-      "versionName": "1.4",
-      "size": 4644137,
-      "sha256": "fa6eba3df67627bcc747040ef4b93f7b79fbe150bd3496d116e41967ae143eae",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.terminal-5-fa6eba3df6/com.ghost.terminal-5-fa6eba3df6.apk",
-      "published": 1790261030
+      "versionCode": 6,
+      "versionName": "1.4.1",
+      "size": 4643937,
+      "sha256": "b65fecbb25f719d212c62e46539c5362691f672c90847a771c9e3ab69bc6c344",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.terminal-6-b65fecbb25/com.ghost.terminal-6-b65fecbb25.apk",
+      "published": 1790261394
     },
     {
       "package": "com.ghost.weather",
