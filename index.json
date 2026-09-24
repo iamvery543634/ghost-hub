@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790287499,
+  "updated": 1790287508,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -224,6 +224,23 @@
       "sha256": "1ed4b99bfb1afa50f9aa83878cef42033e9c4bd324ac11645e6d6bb037e59844",
       "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.graphwar-1-1ed4b99bfb/com.ghost.graphwar-1-1ed4b99bfb.apk",
       "published": 1790287495
+    },
+    {
+      "package": "com.ghost.cookie",
+      "name": "Ghost Cookie Clicker",
+      "icon": "cookie",
+      "description": "Tap the ghost cookie, hire spooky bakers and bake billions.",
+      "changes": [
+        "New game: tap the ghost cookie, buy 11 kinds of spooky bakers and 70 upgrades.",
+        "Catch golden ghosts for frenzies and lucky bonuses. Your ghosts keep baking while you're away.",
+        "Achievements, stats, and it saves by itself."
+      ],
+      "versionCode": 1,
+      "versionName": "1.0",
+      "size": 4627207,
+      "sha256": "f8c125b749030b754ad45460890344ee237545e7c9fb89ef89deb7ab12042e25",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.cookie-1-f8c125b749/com.ghost.cookie-1-f8c125b749.apk",
+      "published": 1790287503
     }
   ]
 }
