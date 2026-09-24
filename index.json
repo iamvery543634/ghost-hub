@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790292280,
+  "updated": 1790292294,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -187,12 +187,12 @@
         "Decision wheel you can edit (knock-out mode, team splitter), a no-repeats raffle, coin streaks and a magic ghost ball.",
         "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
       ],
-      "versionCode": 1,
-      "versionName": "1.0",
-      "size": 4612091,
-      "sha256": "7bd63507faaa18efa5b558e352affd8b10c3d129a128ac292a3f5ea9a06e2b78",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.dice-1-7bd63507fa/com.ghost.dice-1-7bd63507fa.apk",
-      "published": 1790261658
+      "versionCode": 2,
+      "versionName": "2.0",
+      "size": 4650213,
+      "sha256": "0e969ba115eb57c620c1be30d00439582df0ec80cacbe36228f0ec46f3602ab1",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.dice-2-0e969ba115/com.ghost.dice-2-0e969ba115.apk",
+      "published": 1790292290
     },
     {
       "package": "com.ghost.counter",
