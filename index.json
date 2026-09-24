@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790261729,
+  "updated": 1790287499,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -8,7 +8,7 @@
       "icon": "hub",
       "description": "Every Ghost app in one place. Install and update them anywhere, from GitHub or your PC.",
       "changes": [
-        "Two new apps to try: Ghost Dice and Ghost Counter.",
+        "Two new games: Ghost Graph War (with cheats) and Ghost Cookie Clicker.",
         "Update all installs your apps in one go. The first time it updates an app Android asks once, then updates are silent.",
         "Update all shows how much it will download, and the notification lists each app's new version."
       ],
@@ -207,6 +207,23 @@
       "sha256": "36c5c4eaa980a9ca610224907e6407743713aa78ba288e740f75b1915cb0d443",
       "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.counter-1-36c5c4eaa9/com.ghost.counter-1-36c5c4eaa9.apk",
       "published": 1790261685
+    },
+    {
+      "package": "com.ghost.graphwar",
+      "name": "Ghost Graph War",
+      "icon": "graphwar",
+      "description": "Graphwar with ghosts: shoot functions across the map at bots or a friend. Cheats built in.",
+      "changes": [
+        "New game: type a function to shoot, just like Graphwar. y =, y' and y'' boxes, 6 kinds of map, 1-4 ghosts a team.",
+        "Play easy, normal or hard bots, or pass the phone to a friend.",
+        "😈 Cheats: aim bot, see your path, shots through walls, god mode, mega blasts, freeze timer, sleepy bots."
+      ],
+      "versionCode": 1,
+      "versionName": "1.0",
+      "size": 4647587,
+      "sha256": "1ed4b99bfb1afa50f9aa83878cef42033e9c4bd324ac11645e6d6bb037e59844",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.graphwar-1-1ed4b99bfb/com.ghost.graphwar-1-1ed4b99bfb.apk",
+      "published": 1790287495
     }
   ]
 }
