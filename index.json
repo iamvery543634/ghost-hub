@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790260939,
+  "updated": 1790260980,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -47,12 +47,12 @@
         "Sound / Vibrate / Silent buttons for your ringer, right above the system volumes.",
         "Quick Settings tile to pause or resume per-app volume, and long-press an app to remove it."
       ],
-      "versionCode": 6,
-      "versionName": "2.1",
-      "size": 4666565,
-      "sha256": "9f4904700c0f579ae160bd97e74f716dc9dc283d7a47ca3c74f3275ce5c55941",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.volume-6-9f4904700c/com.ghost.volume-6-9f4904700c.apk",
-      "published": 1790207030
+      "versionCode": 7,
+      "versionName": "2.2",
+      "size": 4670889,
+      "sha256": "d572eb977c4ca47d5e67863c71be5f1bb55cf705aad38ba49c0387fdca91100f",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.volume-7-d572eb977c/com.ghost.volume-7-d572eb977c.apk",
+      "published": 1790260958
     },
     {
       "package": "com.ghost.terminal",
