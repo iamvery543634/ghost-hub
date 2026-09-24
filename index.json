@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790260898,
+  "updated": 1790260919,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -83,12 +83,12 @@
         "Rain chance bars for the next 24 hours, and \"warmer/colder than yesterday\" under the temperature.",
         "A Tomorrow pill on the front, and the widget shows today's rain chance."
       ],
-      "versionCode": 4,
-      "versionName": "1.2",
-      "size": 4655233,
-      "sha256": "69faee6cff2ed7f650f572b21897076448028d26ca9bd1eb82edcaacd2274570",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.weather-4-69faee6cff/com.ghost.weather-4-69faee6cff.apk",
-      "published": 1790206997
+      "versionCode": 5,
+      "versionName": "1.3",
+      "size": 4662505,
+      "sha256": "e635fa1da4374eb67aea17d3f3e96aacb68e53cc4dc402dd590ede06c9a3e9fc",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.weather-5-e635fa1da4/com.ghost.weather-5-e635fa1da4.apk",
+      "published": 1790260913
     },
     {
       "package": "com.ghost.school",
