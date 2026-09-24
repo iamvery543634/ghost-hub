@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790289729,
+  "updated": 1790292228,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -8,9 +8,10 @@
       "icon": "hub",
       "description": "Every Ghost app in one place. Install and update them anywhere, from GitHub or your PC.",
       "changes": [
-        "New app to try: Ghost Bot (a pretend-money meme-coin trading bot).",
-        "Updates itself: every few hours in the background, and as soon as you open it. No more tapping Update.",
-        "Apps Ghost Hub installed update silently (⚡). Others ask once with a notification, then they're silent too."
+        "Cleaner look: a search box, and apps sorted into Tools, Everyday and Games & fun.",
+        "New settings sheet with Update history (every install and update, with versions and times), Share Ghost Hub and Clear downloads.",
+        "Share any app's download link from its page. The ghosts in the background got the new cute look.",
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
       ],
       "versionCode": 15,
       "versionName": "2.9",
@@ -25,10 +26,10 @@
       "icon": "ghost",
       "description": "Set your location anywhere: teleport, walk a route or steer with the joystick.",
       "changes": [
-        "New compact look: one slim search pill at the top and a small glass dock at the bottom, so the map gets almost the whole screen.",
-        "Fold the dock down to just its tabs with the ⌄ button, and a pulsing Live dot shows when your location is being changed.",
-        "There & back: long-press Loop to walk a route out and home again, on repeat.",
-        "Long-press the app icon to teleport straight to a favourite; long-press Live to copy your fake coordinates."
+        "🎲 Random walk: pick a length and Ghost GPS draws a loop around where you are.",
+        "Import routes from other map or fitness apps as GPX files, and save your routes as GPX.",
+        "New Routes sheet, rename saved routes, and rename favourites (long-press a favourite).",
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
       ],
       "versionCode": 8,
       "versionName": "3.0",
@@ -43,9 +44,9 @@
       "icon": "volume",
       "description": "Your own volume for every app, switched automatically when you open it.",
       "changes": [
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
         "Headphone volume limit: cap media volume whenever headphones or Bluetooth are connected, to look after your ears.",
-        "Sound / Vibrate / Silent buttons for your ringer, right above the system volumes.",
-        "Quick Settings tile to pause or resume per-app volume, and long-press an app to remove it."
+        "Sound / Vibrate / Silent buttons for your ringer, right above the system volumes."
       ],
       "versionCode": 7,
       "versionName": "2.2",
@@ -60,9 +61,9 @@
       "icon": "terminal",
       "description": "A shell on your phone, with a side list of commands that work on your device.",
       "changes": [
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
         "Small test update: checks Ghost Hub can now update apps without asking you.",
-        "Colour output: 'ls --color' and friends now show real colours instead of odd symbols.",
-        "Slow commands say how long they took, failures show in red, and a cyan light sweeps under the bar while a command runs."
+        "Colour output: 'ls --color' and friends now show real colours instead of odd symbols."
       ],
       "versionCode": 6,
       "versionName": "1.4.1",
@@ -77,10 +78,9 @@
       "icon": "weather",
       "description": "Live weather where you are and anywhere you save: hourly, 7-day, rain alerts at a glance.",
       "changes": [
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
         "New Air quality tile (with PM2.5) and a Daylight tile that says if tomorrow is longer or shorter.",
-        "Optional morning rain alert at 7:30 when rain is likely today.",
-        "Rain chance bars for the next 24 hours, and \"warmer/colder than yesterday\" under the temperature.",
-        "A Tomorrow pill on the front, and the widget shows today's rain chance."
+        "Optional morning rain alert at 7:30 when rain is likely today."
       ],
       "versionCode": 5,
       "versionName": "1.3",
@@ -95,10 +95,9 @@
       "icon": "school",
       "description": "Homework, timetable, grades, targets, exams and revision, with XP, levels and badges.",
       "changes": [
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
         "Home-screen widget: what's on now or next, and how much homework is due.",
-        "Two-week timetables (Week A / Week B), homework notes, and your own reminder time with exam heads-ups.",
-        "Grades tell you what you need next time to hit your target, and Quick-fire has Fractions and Negative numbers.",
-        "The focus timer shows a live countdown in your notifications."
+        "Two-week timetables (Week A / Week B), homework notes, and your own reminder time with exam heads-ups."
       ],
       "versionCode": 26,
       "versionName": "2.6",
@@ -113,9 +112,9 @@
       "icon": "editor",
       "description": "Crop, rotate, filters, adjust, draw and add text to your photos. Nothing leaves your phone.",
       "changes": [
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
         "New Frame tool: add a border, or make a photo square with a colour or blurred background.",
-        "Straighten slider, plus Blur, Pixelate and Marker brushes to hide private details.",
-        "✨ Auto in Adjust, and long-press Save to pick the size (full, 1080, 720) or PNG."
+        "Straighten slider, plus Blur, Pixelate and Marker brushes to hide private details."
       ],
       "versionCode": 5,
       "versionName": "1.4",
@@ -130,10 +129,10 @@
       "icon": "vpn",
       "description": "One-tap VPN through free volunteer servers in many countries. Tests servers from your phone to find the fastest.",
       "changes": [
-        "Reconnects to the same country if the tunnel drops on its own (switch off in the menu).",
-        "Recent sessions in the menu: where you connected, for how long and how much data; tap one to go there again.",
-        "Long-press the big button to connect to the fastest country, and Measure speed runs a real download test.",
-        "Tap your IP address to copy it."
+        "The connect button now has the ghost in it: worried when you're exposed, happy with a shield when you're protected.",
+        "Fastest-for-you tiles: the quickest countries from your phone, one tap to connect.",
+        "Region filters (Europe, Americas, Asia), neat time and data tiles, and a new session history with weekly totals.",
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
       ],
       "versionCode": 4,
       "versionName": "1.3",
@@ -148,10 +147,10 @@
       "icon": "browser",
       "description": "A private browser: ad & tracker blocker, incognito tabs, and sites forget you when you leave.",
       "changes": [
-        "📖 Reader view: just the words of an article in a clean, easy-to-read sheet, with a reading time.",
-        "Bookmarks: save pages with ☆ in the menu and open them from the start page. Kept only on your phone.",
-        "Print or save any page as a PDF, and a text size setting for every page.",
-        "Downloads is now one tap away in the menu."
+        "A clean new menu: quick buttons (forward, reload, bookmark, share, find) and a tidy grid for everything else.",
+        "Closed a tab by mistake? Tap Undo, or Reopen tab from the menu (normal tabs only, never saved).",
+        "Tidier start page with a greeting and privacy stat tiles.",
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
       ],
       "versionCode": 5,
       "versionName": "2.3",
@@ -166,10 +165,9 @@
       "icon": "video",
       "description": "Video editor: trim, filters, colour, speed, rotate, captions and sound. Saved on your phone.",
       "changes": [
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
         "Crop to a shape (Square, Story, Portrait, Wide) with a live crop box.",
-        "Join clips: add more videos to play after this one when you export.",
-        "Sound: new Quiet and Fade in/out options.",
-        "Film-strip trim slider and a 🔁 loop preview."
+        "Join clips: add more videos to play after this one when you export."
       ],
       "versionCode": 4,
       "versionName": "1.3",
@@ -182,9 +180,12 @@
       "package": "com.ghost.dice",
       "name": "Ghost Dice",
       "icon": "dice",
-      "description": "Roll dice, flip a coin or pick a random number.",
+      "description": "Dice (d4 to d20), a coin, random numbers, a decision wheel and a magic ghost ball.",
       "changes": [
-        "New app: roll 1-3 dice with a spin, flip a coin with a running score, or pick a number (1-6 up to 1-1000)."
+        "Big 2.0 update with 5 tabs: Dice, Coin, Number, Wheel and Ask.",
+        "Dice from d4 to d20, up to 6 at once. Tap a die to hold it, and shake your phone to roll.",
+        "Decision wheel you can edit (knock-out mode, team splitter), a no-repeats raffle, coin streaks and a magic ghost ball.",
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
       ],
       "versionCode": 1,
       "versionName": "1.0",
@@ -199,6 +200,7 @@
       "icon": "counter",
       "description": "Count anything with a tap.",
       "changes": [
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
         "New app: a big tap counter with +1/+2/+5/+10 steps, a name for what you're counting, and your highest count remembered."
       ],
       "versionCode": 1,
@@ -214,9 +216,9 @@
       "icon": "graphwar",
       "description": "Graphwar with ghosts: shoot functions across the map at bots or a friend. Cheats built in.",
       "changes": [
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
         "New game: type a function to shoot, just like Graphwar. y =, y' and y'' boxes, 6 kinds of map, 1-4 ghosts a team.",
-        "Play easy, normal or hard bots, or pass the phone to a friend.",
-        "😈 Cheats: aim bot, see your path, shots through walls, god mode, mega blasts, freeze timer, sleepy bots."
+        "Play easy, normal or hard bots, or pass the phone to a friend."
       ],
       "versionCode": 1,
       "versionName": "1.0",
@@ -231,16 +233,17 @@
       "icon": "cookie",
       "description": "Tap the ghost cookie, hire spooky bakers and bake billions.",
       "changes": [
-        "New game: tap the ghost cookie, buy 11 kinds of spooky bakers and 70 upgrades.",
-        "Catch golden ghosts for frenzies and lucky bonuses. Your ghosts keep baking while you're away.",
-        "Achievements, stats, and it saves by itself."
+        "Big 2.0 update: a night-sky scene, a nicer cookie with a blinking face, cursors circling it and milk that rises with achievements.",
+        "Ascend for ghost souls (+2% each, forever), 3 new buildings, Buy Max, sell buildings (hold one) and a Buy-all-upgrades button.",
+        "Golden ghosts can start a cookie storm to catch, plus a news ticker, lots more achievements and a save code to back up your game.",
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
       ],
-      "versionCode": 1,
-      "versionName": "1.0",
-      "size": 4627207,
-      "sha256": "f8c125b749030b754ad45460890344ee237545e7c9fb89ef89deb7ab12042e25",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.cookie-1-f8c125b749/com.ghost.cookie-1-f8c125b749.apk",
-      "published": 1790287503
+      "versionCode": 2,
+      "versionName": "2.0",
+      "size": 4655201,
+      "sha256": "fa1ddef023092ce83dbc33efc5ee16e61e406499084852aa1dd52bf5cb6ec7fd",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.cookie-2-fa1ddef023/com.ghost.cookie-2-fa1ddef023.apk",
+      "published": 1790292225
     },
     {
       "package": "com.ghost.invest",
@@ -248,9 +251,9 @@
       "icon": "invest",
       "description": "Practise investing with £10,000 of pretend money on real, live meme coin, crypto and stock prices.",
       "changes": [
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
         "New app: buy and sell 15 meme coins, Bitcoin, Solana and 10 big stocks with practice money, at live prices.",
-        "Practice trading bots (dip buyer, steady buyer, momentum rider) that run on real prices, even when the app's closed.",
-        "See your real Phantom wallet balance, read-only, from your public address. It never asks for your secret words."
+        "Practice trading bots (dip buyer, steady buyer, momentum rider) that run on real prices, even when the app's closed."
       ],
       "versionCode": 1,
       "versionName": "1.0",
@@ -265,9 +268,10 @@
       "icon": "bot",
       "description": "A meme-coin trading bot with its own pretend-money wallet, trading at real live prices.",
       "changes": [
-        "New app: send the bot's wallet pretend money, press Start, and it trades meme coins at live prices by itself.",
-        "Three strategies: Meme hunter (chases the biggest pump), Dip buyer and Momentum rider.",
-        "Press Stop to cash out and get a report: what you gave it, what it gave back, and the profit or loss."
+        "Starts straight away: with Jump in on, the bot makes its first buy the moment you press Start.",
+        "Live radar of the biggest movers, a bar showing how close it is to its next buy or sell, and B/S marks on the chart.",
+        "Choose how often it looks (15 s / 30 s / 1 min), tap to look now, share a run's result, and see your best run and win rate.",
+        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
       ],
       "versionCode": 1,
       "versionName": "1.0",
