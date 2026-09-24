@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790292397,
+  "updated": 1790292412,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -203,12 +203,12 @@
         "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
         "New app: a big tap counter with +1/+2/+5/+10 steps, a name for what you're counting, and your highest count remembered."
       ],
-      "versionCode": 1,
-      "versionName": "1.0",
-      "size": 4609435,
-      "sha256": "36c5c4eaa980a9ca610224907e6407743713aa78ba288e740f75b1915cb0d443",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.counter-1-36c5c4eaa9/com.ghost.counter-1-36c5c4eaa9.apk",
-      "published": 1790261685
+      "versionCode": 2,
+      "versionName": "1.1",
+      "size": 4617617,
+      "sha256": "8b3eccffc2d6b0fe7b3da34d7a19ea7d80d876292609a1edd9b97393a2af5302",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.counter-2-8b3eccffc2/com.ghost.counter-2-8b3eccffc2.apk",
+      "published": 1790292409
     },
     {
       "package": "com.ghost.graphwar",
