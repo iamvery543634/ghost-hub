@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790261098,
+  "updated": 1790261127,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -12,12 +12,12 @@
         "Update all shows how much it will download, and the notification lists each app's new version.",
         "App info and Uninstall buttons in each app's details. Update checks keep working after a restart."
       ],
-      "versionCode": 9,
-      "versionName": "2.3",
-      "size": 4686486,
-      "sha256": "a1ca7e61fa374570406ef01d1714b0ef70fd29b67ee36a73c4d38bee75871272",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-9-a1ca7e61fa/com.ghost.hub-9-a1ca7e61fa.apk",
-      "published": 1790207564
+      "versionCode": 10,
+      "versionName": "2.4",
+      "size": 4687742,
+      "sha256": "3194a2a1c2a64d35ee70e786da851dea8f5bf56dfc4a14608ff5ad443a3daba5",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-10-3194a2a1c2/com.ghost.hub-10-3194a2a1c2.apk",
+      "published": 1790261114
     },
     {
       "package": "com.mirage.gps",
