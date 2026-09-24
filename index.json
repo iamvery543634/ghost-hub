@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790260835,
+  "updated": 1790260898,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -172,12 +172,12 @@
         "Sound: new Quiet and Fade in/out options.",
         "Film-strip trim slider and a 🔁 loop preview."
       ],
-      "versionCode": 3,
-      "versionName": "1.2",
-      "size": 7424291,
-      "sha256": "9872b98b8ada949d643b0f7f036c4ad0c26b724f05fd4d14b4bd7d5b700a3b45",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.video-3-9872b98b8a/com.ghost.video-3-9872b98b8a.apk",
-      "published": 1790206984
+      "versionCode": 4,
+      "versionName": "1.3",
+      "size": 7427819,
+      "sha256": "980aebb477e2f5d96c6b768c81973a1b2fa4e7b61f0f5d0f3fb7a939a3e9dc55",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.video-4-980aebb477/com.ghost.video-4-980aebb477.apk",
+      "published": 1790260852
     }
   ]
 }
