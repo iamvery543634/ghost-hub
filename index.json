@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790292294,
+  "updated": 1790292312,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -48,12 +48,12 @@
         "Headphone volume limit: cap media volume whenever headphones or Bluetooth are connected, to look after your ears.",
         "Sound / Vibrate / Silent buttons for your ringer, right above the system volumes."
       ],
-      "versionCode": 7,
-      "versionName": "2.2",
-      "size": 4670889,
-      "sha256": "d572eb977c4ca47d5e67863c71be5f1bb55cf705aad38ba49c0387fdca91100f",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.volume-7-d572eb977c/com.ghost.volume-7-d572eb977c.apk",
-      "published": 1790260958
+      "versionCode": 8,
+      "versionName": "2.3",
+      "size": 4677926,
+      "sha256": "e2cf870103cadfe42b25c8af6735f00e8097be7aa8f52c92c5e0a37998b719fe",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.volume-8-e2cf870103/com.ghost.volume-8-e2cf870103.apk",
+      "published": 1790292307
     },
     {
       "package": "com.ghost.terminal",
