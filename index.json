@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790261415,
+  "updated": 1790261669,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -8,9 +8,9 @@
       "icon": "hub",
       "description": "Every Ghost app in one place. Install and update them anywhere, from GitHub or your PC.",
       "changes": [
+        "Two new apps to try: Ghost Dice and Ghost Counter.",
         "Update all installs your apps in one go. The first time it updates an app Android asks once, then updates are silent.",
-        "Update all shows how much it will download, and the notification lists each app's new version.",
-        "App info and Uninstall buttons in each app's details. Update checks keep working after a restart."
+        "Update all shows how much it will download, and the notification lists each app's new version."
       ],
       "versionCode": 10,
       "versionName": "2.4",
@@ -177,6 +177,21 @@
       "sha256": "980aebb477e2f5d96c6b768c81973a1b2fa4e7b61f0f5d0f3fb7a939a3e9dc55",
       "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.video-4-980aebb477/com.ghost.video-4-980aebb477.apk",
       "published": 1790260852
+    },
+    {
+      "package": "com.ghost.dice",
+      "name": "Ghost Dice",
+      "icon": "dice",
+      "description": "Roll dice, flip a coin or pick a random number.",
+      "changes": [
+        "New app: roll 1-3 dice with a spin, flip a coin with a running score, or pick a number (1-6 up to 1-1000)."
+      ],
+      "versionCode": 1,
+      "versionName": "1.0",
+      "size": 4612091,
+      "sha256": "7bd63507faaa18efa5b558e352affd8b10c3d129a128ac292a3f5ea9a06e2b78",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.dice-1-7bd63507fa/com.ghost.dice-1-7bd63507fa.apk",
+      "published": 1790261658
     }
   ]
 }
