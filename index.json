@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790292380,
+  "updated": 1790292397,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -82,12 +82,12 @@
         "New Air quality tile (with PM2.5) and a Daylight tile that says if tomorrow is longer or shorter.",
         "Optional morning rain alert at 7:30 when rain is likely today."
       ],
-      "versionCode": 5,
-      "versionName": "1.3",
-      "size": 4662505,
-      "sha256": "e635fa1da4374eb67aea17d3f3e96aacb68e53cc4dc402dd590ede06c9a3e9fc",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.weather-5-e635fa1da4/com.ghost.weather-5-e635fa1da4.apk",
-      "published": 1790260913
+      "versionCode": 6,
+      "versionName": "1.4",
+      "size": 4670747,
+      "sha256": "1129374ebe7c6ffe9c758790ccc0d67a94fd5638fc8f80953ce358ce8a02d65f",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.weather-6-1129374ebe/com.ghost.weather-6-1129374ebe.apk",
+      "published": 1790292392
     },
     {
       "package": "com.ghost.school",
