@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790292266,
+  "updated": 1790292280,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -273,12 +273,12 @@
         "Choose how often it looks (15 s / 30 s / 1 min), tap to look now, share a run's result, and see your best run and win rate.",
         "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
       ],
-      "versionCode": 1,
-      "versionName": "1.0",
-      "size": 4642791,
-      "sha256": "10a676beaf75e716e11f937822c87b445c1256c8be49fd31e062c9ff45b6718d",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.bot-1-10a676beaf/com.ghost.bot-1-10a676beaf.apk",
-      "published": 1790289711
+      "versionCode": 2,
+      "versionName": "1.1",
+      "size": 4656829,
+      "sha256": "1f9eac113984671fac44a04196472f02caf12180f9309dd6088c9d79aa078b60",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.bot-2-1f9eac1139/com.ghost.bot-2-1f9eac1139.apk",
+      "published": 1790292276
     }
   ]
 }
