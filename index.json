@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790292244,
+  "updated": 1790292255,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -134,12 +134,12 @@
         "Region filters (Europe, Americas, Asia), neat time and data tiles, and a new session history with weekly totals.",
         "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
       ],
-      "versionCode": 4,
-      "versionName": "1.3",
-      "size": 4655097,
-      "sha256": "99b019015291d1dd9449c598f7a2118b64323c14c964079a688a97c18f2b7cd0",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.vpn-4-99b0190152/com.ghost.vpn-4-99b0190152.apk",
-      "published": 1790261086
+      "versionCode": 5,
+      "versionName": "2.0",
+      "size": 4671615,
+      "sha256": "612c336c86214874a4a23c4ba50ca34c2b9369ffd36c4f16cae2f897b2e1b317",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.vpn-5-612c336c86/com.ghost.vpn-5-612c336c86.apk",
+      "published": 1790292251
     },
     {
       "package": "com.ghost.browser",
