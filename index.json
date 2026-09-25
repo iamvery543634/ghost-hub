@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790292451,
+  "updated": 1790351763,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -10,8 +10,7 @@
       "changes": [
         "Cleaner look: a search box, and apps sorted into Tools, Everyday and Games & fun.",
         "New settings sheet with Update history (every install and update, with versions and times), Share Ghost Hub and Clear downloads.",
-        "Share any app's download link from its page. The ghosts in the background got the new cute look.",
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
+        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner."
       ],
       "versionCode": 16,
       "versionName": "3.0",
@@ -29,14 +28,14 @@
         "🎲 Random walk: pick a length and Ghost GPS draws a loop around where you are.",
         "Import routes from other map or fitness apps as GPX files, and save your routes as GPX.",
         "New Routes sheet, rename saved routes, and rename favourites (long-press a favourite).",
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
+        "The icon is back to the original Ghost GPS ghost."
       ],
-      "versionCode": 9,
-      "versionName": "3.1",
-      "size": 17470386,
-      "sha256": "1732ec0ac1a13cdee0ba71d28f41bdf68e854019d78516a9156921f7b0f3cd0b",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.mirage.gps-9-1732ec0ac1/com.mirage.gps-9-1732ec0ac1.apk",
-      "published": 1790292235
+      "versionCode": 10,
+      "versionName": "3.1.1",
+      "size": 17460368,
+      "sha256": "6b9ffbcf0c12dd3e77763234eebfca9be4f580be97595aaaf2e636c408f13caa",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.mirage.gps-10-6b9ffbcf0c/com.mirage.gps-10-6b9ffbcf0c.apk",
+      "published": 1790351740
     },
     {
       "package": "com.ghost.volume",
@@ -44,7 +43,7 @@
       "icon": "volume",
       "description": "Your own volume for every app, switched automatically when you open it.",
       "changes": [
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
+        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner.",
         "Headphone volume limit: cap media volume whenever headphones or Bluetooth are connected, to look after your ears.",
         "Sound / Vibrate / Silent buttons for your ringer, right above the system volumes."
       ],
@@ -61,7 +60,7 @@
       "icon": "terminal",
       "description": "A shell on your phone, with a side list of commands that work on your device.",
       "changes": [
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
+        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner.",
         "Small test update: checks Ghost Hub can now update apps without asking you.",
         "Colour output: 'ls --color' and friends now show real colours instead of odd symbols."
       ],
@@ -78,7 +77,7 @@
       "icon": "weather",
       "description": "Live weather where you are and anywhere you save: hourly, 7-day, rain alerts at a glance.",
       "changes": [
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
+        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner.",
         "New Air quality tile (with PM2.5) and a Daylight tile that says if tomorrow is longer or shorter.",
         "Optional morning rain alert at 7:30 when rain is likely today."
       ],
@@ -95,7 +94,7 @@
       "icon": "school",
       "description": "Homework, timetable, grades, targets, exams and revision, with XP, levels and badges.",
       "changes": [
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
+        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner.",
         "Home-screen widget: what's on now or next, and how much homework is due.",
         "Two-week timetables (Week A / Week B), homework notes, and your own reminder time with exam heads-ups."
       ],
@@ -112,7 +111,7 @@
       "icon": "editor",
       "description": "Crop, rotate, filters, adjust, draw and add text to your photos. Nothing leaves your phone.",
       "changes": [
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
+        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner.",
         "New Frame tool: add a border, or make a photo square with a colour or blurred background.",
         "Straighten slider, plus Blur, Pixelate and Marker brushes to hide private details."
       ],
@@ -129,10 +128,10 @@
       "icon": "vpn",
       "description": "One-tap VPN through free volunteer servers in many countries. Tests servers from your phone to find the fastest.",
       "changes": [
-        "The connect button now has the ghost in it: worried when you're exposed, happy with a shield when you're protected.",
+        "The connect button now has the ghost in it, and gets a green shield when you're protected.",
         "Fastest-for-you tiles: the quickest countries from your phone, one tap to connect.",
         "Region filters (Europe, Americas, Asia), neat time and data tiles, and a new session history with weekly totals.",
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
+        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner."
       ],
       "versionCode": 5,
       "versionName": "2.0",
@@ -150,7 +149,7 @@
         "A clean new menu: quick buttons (forward, reload, bookmark, share, find) and a tidy grid for everything else.",
         "Closed a tab by mistake? Tap Undo, or Reopen tab from the menu (normal tabs only, never saved).",
         "Tidier start page with a greeting and privacy stat tiles.",
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
+        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner."
       ],
       "versionCode": 6,
       "versionName": "3.0",
@@ -165,7 +164,7 @@
       "icon": "video",
       "description": "Video editor: trim, filters, colour, speed, rotate, captions and sound. Saved on your phone.",
       "changes": [
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
+        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner.",
         "Crop to a shape (Square, Story, Portrait, Wide) with a live crop box.",
         "Join clips: add more videos to play after this one when you export."
       ],
@@ -185,7 +184,7 @@
         "Big 2.0 update with 5 tabs: Dice, Coin, Number, Wheel and Ask.",
         "Dice from d4 to d20, up to 6 at once. Tap a die to hold it, and shake your phone to roll.",
         "Decision wheel you can edit (knock-out mode, team splitter), a no-repeats raffle, coin streaks and a magic ghost ball.",
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
+        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner."
       ],
       "versionCode": 2,
       "versionName": "2.0",
@@ -200,7 +199,7 @@
       "icon": "counter",
       "description": "Count anything with a tap.",
       "changes": [
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
+        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner.",
         "New app: a big tap counter with +1/+2/+5/+10 steps, a name for what you're counting, and your highest count remembered."
       ],
       "versionCode": 2,
@@ -216,7 +215,7 @@
       "icon": "graphwar",
       "description": "Graphwar with ghosts: shoot functions across the map at bots or a friend. Cheats built in.",
       "changes": [
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
+        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner.",
         "New game: type a function to shoot, just like Graphwar. y =, y' and y'' boxes, 6 kinds of map, 1-4 ghosts a team.",
         "Play easy, normal or hard bots, or pass the phone to a friend."
       ],
@@ -236,14 +235,14 @@
         "Big 2.0 update: a night-sky scene, a nicer cookie with a blinking face, cursors circling it and milk that rises with achievements.",
         "Ascend for ghost souls (+2% each, forever), 3 new buildings, Buy Max, sell buildings (hold one) and a Buy-all-upgrades button.",
         "Golden ghosts can start a cookie storm to catch, plus a news ticker, lots more achievements and a save code to back up your game.",
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
+        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner."
       ],
-      "versionCode": 2,
-      "versionName": "2.0",
-      "size": 4655201,
-      "sha256": "fa1ddef023092ce83dbc33efc5ee16e61e406499084852aa1dd52bf5cb6ec7fd",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.cookie-2-fa1ddef023/com.ghost.cookie-2-fa1ddef023.apk",
-      "published": 1790292225
+      "versionCode": 3,
+      "versionName": "2.0.1",
+      "size": 4647771,
+      "sha256": "54bf767127d48f720cb2448fd23b87d96e064bd0288320d8088754375f41aeac",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.cookie-3-54bf767127/com.ghost.cookie-3-54bf767127.apk",
+      "published": 1790351688
     },
     {
       "package": "com.ghost.invest",
@@ -251,7 +250,7 @@
       "icon": "invest",
       "description": "Practise investing with £10,000 of pretend money on real, live meme coin, crypto and stock prices.",
       "changes": [
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps.",
+        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner.",
         "New app: buy and sell 15 meme coins, Bitcoin, Solana and 10 big stocks with practice money, at live prices.",
         "Practice trading bots (dip buyer, steady buyer, momentum rider) that run on real prices, even when the app's closed."
       ],
@@ -271,7 +270,7 @@
         "Starts straight away: with Jump in on, the bot makes its first buy the moment you press Start.",
         "Live radar of the biggest movers, a bar showing how close it is to its next buy or sell, and B/S marks on the chart.",
         "Choose how often it looks (15 s / 30 s / 1 min), tap to look now, share a run's result, and see your best run and win rate.",
-        "A brand new, more detailed ghost icon (shiny eyes, little arms, a smile) that matches all the Ghost apps."
+        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner."
       ],
       "versionCode": 2,
       "versionName": "1.1",
