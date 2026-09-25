@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790351763,
+  "updated": 1790351776,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -133,12 +133,12 @@
         "Region filters (Europe, Americas, Asia), neat time and data tiles, and a new session history with weekly totals.",
         "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner."
       ],
-      "versionCode": 5,
-      "versionName": "2.0",
-      "size": 4671615,
-      "sha256": "612c336c86214874a4a23c4ba50ca34c2b9369ffd36c4f16cae2f897b2e1b317",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.vpn-5-612c336c86/com.ghost.vpn-5-612c336c86.apk",
-      "published": 1790292251
+      "versionCode": 6,
+      "versionName": "2.0.1",
+      "size": 4663485,
+      "sha256": "b819d25f1784aee6c8938891bef54dd77bcec8c5ae2a2b173fd02e146d84b88b",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.vpn-6-b819d25f17/com.ghost.vpn-6-b819d25f17.apk",
+      "published": 1790351772
     },
     {
       "package": "com.ghost.browser",
