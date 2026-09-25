@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790351776,
+  "updated": 1790351819,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -151,12 +151,12 @@
         "Tidier start page with a greeting and privacy stat tiles.",
         "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner."
       ],
-      "versionCode": 6,
-      "versionName": "3.0",
-      "size": 4886022,
-      "sha256": "61dadb97614a0c4be9a6c071b2ebf8eb7955b04ff0fc6c5cef273b7ae668abd6",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.browser-6-61dadb9761/com.ghost.browser-6-61dadb9761.apk",
-      "published": 1790292262
+      "versionCode": 7,
+      "versionName": "3.0.1",
+      "size": 4878584,
+      "sha256": "22b38285422694f891d89a224c95e1f478052412f902fed291729a74000be10f",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.browser-7-22b3828542/com.ghost.browser-7-22b3828542.apk",
+      "published": 1790351792
     },
     {
       "package": "com.ghost.video",
