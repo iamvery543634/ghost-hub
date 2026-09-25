@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790351819,
+  "updated": 1790351835,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -272,12 +272,12 @@
         "Choose how often it looks (15 s / 30 s / 1 min), tap to look now, share a run's result, and see your best run and win rate.",
         "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner."
       ],
-      "versionCode": 2,
-      "versionName": "1.1",
-      "size": 4656829,
-      "sha256": "1f9eac113984671fac44a04196472f02caf12180f9309dd6088c9d79aa078b60",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.bot-2-1f9eac1139/com.ghost.bot-2-1f9eac1139.apk",
-      "published": 1790292276
+      "versionCode": 3,
+      "versionName": "1.1.1",
+      "size": 4649291,
+      "sha256": "c87c4b98ed0f89f9109140b3d4e981e4c53d9303e0f3b560d884348452c85103",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.bot-3-c87c4b98ed/com.ghost.bot-3-c87c4b98ed.apk",
+      "published": 1790351832
     }
   ]
 }
