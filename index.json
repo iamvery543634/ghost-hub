@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790352037,
+  "updated": 1790352050,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -12,12 +12,12 @@
         "New settings sheet with Update history (every install and update, with versions and times), Share Ghost Hub and Clear downloads.",
         "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner."
       ],
-      "versionCode": 16,
-      "versionName": "3.0",
-      "size": 4722034,
-      "sha256": "733aef5b4a142b601e48c8aa702681a14e22e3979e6871641376facc83bb726a",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-16-733aef5b4a/com.ghost.hub-16-733aef5b4a.apk",
-      "published": 1790292447
+      "versionCode": 17,
+      "versionName": "3.0.1",
+      "size": 4713711,
+      "sha256": "e5442ca1d628d9c0048de153342eca6ada24a321602e75e0ec1a2449b377489c",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-17-e5442ca1d6/com.ghost.hub-17-e5442ca1d6.apk",
+      "published": 1790352045
     },
     {
       "package": "com.mirage.gps",
