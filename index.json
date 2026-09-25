@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790351927,
+  "updated": 1790351947,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -115,12 +115,12 @@
         "New Frame tool: add a border, or make a photo square with a colour or blurred background.",
         "Straighten slider, plus Blur, Pixelate and Marker brushes to hide private details."
       ],
-      "versionCode": 6,
-      "versionName": "1.5",
-      "size": 4661614,
-      "sha256": "d3720a725f09155db9f1bd9dabe661840b8a0439e1bf3e807e16a0ac8c95cc84",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.editor-6-d3720a725f/com.ghost.editor-6-d3720a725f.apk",
-      "published": 1790292355
+      "versionCode": 7,
+      "versionName": "1.5.1",
+      "size": 4653992,
+      "sha256": "98677fa392278da85a6192587538dd5b1d42ff4668e8b190948564d6f4206389",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.editor-7-98677fa392/com.ghost.editor-7-98677fa392.apk",
+      "published": 1790351942
     },
     {
       "package": "com.ghost.vpn",
