@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790352017,
+  "updated": 1790352037,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -254,12 +254,12 @@
         "New app: buy and sell 15 meme coins, Bitcoin, Solana and 10 big stocks with practice money, at live prices.",
         "Practice trading bots (dip buyer, steady buyer, momentum rider) that run on real prices, even when the app's closed."
       ],
-      "versionCode": 2,
-      "versionName": "1.1",
-      "size": 4679405,
-      "sha256": "5dd4c8ad893e998cac7e070b3c982929373e42b539fb7306c6e599bd4f779a15",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.invest-2-5dd4c8ad89/com.ghost.invest-2-5dd4c8ad89.apk",
-      "published": 1790292437
+      "versionCode": 3,
+      "versionName": "1.1.1",
+      "size": 4671871,
+      "sha256": "14827aff0837a9c1e0ab3add12ab1de910ea27a062d390273c7cb6a0e67ff153",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.invest-3-14827aff08/com.ghost.invest-3-14827aff08.apk",
+      "published": 1790352034
     },
     {
       "package": "com.ghost.bot",
