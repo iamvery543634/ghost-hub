@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790351909,
+  "updated": 1790351927,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -98,12 +98,12 @@
         "Home-screen widget: what's on now or next, and how much homework is due.",
         "Two-week timetables (Week A / Week B), homework notes, and your own reminder time with exam heads-ups."
       ],
-      "versionCode": 27,
-      "versionName": "2.7",
-      "size": 4724438,
-      "sha256": "04df320237caecf2e5647c0908ca2a4799e80eb5c244d3111a83ae1250b606c7",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.school-27-04df320237/com.ghost.school-27-04df320237.apk",
-      "published": 1790292340
+      "versionCode": 28,
+      "versionName": "2.7.1",
+      "size": 4716788,
+      "sha256": "da0f0075bfe40f4fda13ccd706c1ba0140fd9344f5f7a3cecc3dcca1654a0e62",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.school-28-da0f0075bf/com.ghost.school-28-da0f0075bf.apk",
+      "published": 1790351923
     },
     {
       "package": "com.ghost.editor",
