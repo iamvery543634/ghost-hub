@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790352050,
+  "updated": 1790467501,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -14,10 +14,10 @@
       ],
       "versionCode": 17,
       "versionName": "3.0.1",
-      "size": 4713711,
-      "sha256": "e5442ca1d628d9c0048de153342eca6ada24a321602e75e0ec1a2449b377489c",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-17-e5442ca1d6/com.ghost.hub-17-e5442ca1d6.apk",
-      "published": 1790352045
+      "size": 4791366,
+      "sha256": "af2d0c726417240f6290e0ed736ff66c0df2d4303854cad2da9b6f8b91d1eb19",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-17-af2d0c7264/com.ghost.hub-17-af2d0c7264.apk",
+      "published": 1790466878
     },
     {
       "package": "com.mirage.gps",
@@ -25,17 +25,17 @@
       "icon": "ghost",
       "description": "Set your location anywhere: teleport, walk a route or steer with the joystick.",
       "changes": [
-        "🎲 Random walk: pick a length and Ghost GPS draws a loop around where you are.",
+        "\ud83c\udfb2 Random walk: pick a length and Ghost GPS draws a loop around where you are.",
         "Import routes from other map or fitness apps as GPX files, and save your routes as GPX.",
         "New Routes sheet, rename saved routes, and rename favourites (long-press a favourite).",
         "The icon is back to the original Ghost GPS ghost."
       ],
       "versionCode": 10,
       "versionName": "3.1.1",
-      "size": 17460368,
-      "sha256": "6b9ffbcf0c12dd3e77763234eebfca9be4f580be97595aaaf2e636c408f13caa",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.mirage.gps-10-6b9ffbcf0c/com.mirage.gps-10-6b9ffbcf0c.apk",
-      "published": 1790351740
+      "size": 17548839,
+      "sha256": "053996373d83c2168046fd6eadcf2a87f99aab2a52bd33f8401bed113ba893d1",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.mirage.gps-10-053996373d/com.mirage.gps-10-053996373d.apk",
+      "published": 1790466880
     },
     {
       "package": "com.ghost.volume",
@@ -49,10 +49,10 @@
       ],
       "versionCode": 9,
       "versionName": "2.3.1",
-      "size": 4670296,
-      "sha256": "209e5681f1534755958c83554020e322441f3ce3f6f75ed239b4a3ac6ab7baa7",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.volume-9-209e5681f1/com.ghost.volume-9-209e5681f1.apk",
-      "published": 1790351869
+      "size": 4748447,
+      "sha256": "03abcb926c64a6fc57f0fe2adcdad839ae5c0e7fa2ee234cdff02a94828cc5ac",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.volume-9-03abcb926c/com.ghost.volume-9-03abcb926c.apk",
+      "published": 1790466882
     },
     {
       "package": "com.ghost.terminal",
@@ -66,10 +66,10 @@
       ],
       "versionCode": 8,
       "versionName": "1.4.3",
-      "size": 4644725,
-      "sha256": "21507a9d6e7b23399e4994486f740a56bcf35a3eabc1f57607cfa51bfddaa2a3",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.terminal-8-21507a9d6e/com.ghost.terminal-8-21507a9d6e.apk",
-      "published": 1790351884
+      "size": 4723872,
+      "sha256": "f54a932358d918f273dadc9da1318fb6018c3b805885f8b7e91516e6cee7da2d",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.terminal-8-f54a932358/com.ghost.terminal-8-f54a932358.apk",
+      "published": 1790466886
     },
     {
       "package": "com.ghost.weather",
@@ -83,10 +83,10 @@
       ],
       "versionCode": 6,
       "versionName": "1.4",
-      "size": 4670747,
-      "sha256": "1129374ebe7c6ffe9c758790ccc0d67a94fd5638fc8f80953ce358ce8a02d65f",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.weather-6-1129374ebe/com.ghost.weather-6-1129374ebe.apk",
-      "published": 1790292392
+      "size": 4748278,
+      "sha256": "54cb5b3ed4e661625dba8ce8bbbc7fc64deab01cbda765fe63dfd9fb597ac5cb",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.weather-6-54cb5b3ed4/com.ghost.weather-6-54cb5b3ed4.apk",
+      "published": 1790466888
     },
     {
       "package": "com.ghost.school",
@@ -100,10 +100,10 @@
       ],
       "versionCode": 28,
       "versionName": "2.7.1",
-      "size": 4716788,
-      "sha256": "da0f0075bfe40f4fda13ccd706c1ba0140fd9344f5f7a3cecc3dcca1654a0e62",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.school-28-da0f0075bf/com.ghost.school-28-da0f0075bf.apk",
-      "published": 1790351923
+      "size": 4792887,
+      "sha256": "1ee404f362aee481b5785adbe4e9c003720d141c840eb0391ac2e80dc00a781c",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.school-28-1ee404f362/com.ghost.school-28-1ee404f362.apk",
+      "published": 1790466891
     },
     {
       "package": "com.ghost.editor",
@@ -117,10 +117,10 @@
       ],
       "versionCode": 7,
       "versionName": "1.5.1",
-      "size": 4653992,
-      "sha256": "98677fa392278da85a6192587538dd5b1d42ff4668e8b190948564d6f4206389",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.editor-7-98677fa392/com.ghost.editor-7-98677fa392.apk",
-      "published": 1790351942
+      "size": 4731727,
+      "sha256": "0a65460ae8fb9235114f53a2a8eff12e6336c78405aef04c23ad6ed3ffb12f2e",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.editor-7-0a65460ae8/com.ghost.editor-7-0a65460ae8.apk",
+      "published": 1790466893
     },
     {
       "package": "com.ghost.vpn",
@@ -135,10 +135,10 @@
       ],
       "versionCode": 6,
       "versionName": "2.0.1",
-      "size": 4663485,
-      "sha256": "b819d25f1784aee6c8938891bef54dd77bcec8c5ae2a2b173fd02e146d84b88b",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.vpn-6-b819d25f17/com.ghost.vpn-6-b819d25f17.apk",
-      "published": 1790351772
+      "size": 4739304,
+      "sha256": "c82aff6062fdfe8516d9f633cd39af0ca2f4c015882f4dedd6952345d419edc1",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.vpn-6-c82aff6062/com.ghost.vpn-6-c82aff6062.apk",
+      "published": 1790466895
     },
     {
       "package": "com.ghost.browser",
@@ -153,10 +153,10 @@
       ],
       "versionCode": 7,
       "versionName": "3.0.1",
-      "size": 4878584,
-      "sha256": "22b38285422694f891d89a224c95e1f478052412f902fed291729a74000be10f",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.browser-7-22b3828542/com.ghost.browser-7-22b3828542.apk",
-      "published": 1790351792
+      "size": 4957575,
+      "sha256": "7caefae5b5625e19ee8a03d027a5ee5f19869e893231581e56c10662bf0ae3cd",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.browser-7-7caefae5b5/com.ghost.browser-7-7caefae5b5.apk",
+      "published": 1790466898
     },
     {
       "package": "com.ghost.video",
@@ -170,10 +170,10 @@
       ],
       "versionCode": 6,
       "versionName": "1.4.1",
-      "size": 7428443,
-      "sha256": "f985c40164786f848c41a2aa3765df0385df5abc2e360ce94dafff692c02ba44",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.video-6-f985c40164/com.ghost.video-6-f985c40164.apk",
-      "published": 1790351962
+      "size": 7523338,
+      "sha256": "78d682e724dd370ee41bee65e3ec47054207598073d3431db34d1432cda21b91",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.video-6-78d682e724/com.ghost.video-6-78d682e724.apk",
+      "published": 1790466900
     },
     {
       "package": "com.ghost.dice",
@@ -188,10 +188,10 @@
       ],
       "versionCode": 3,
       "versionName": "2.0.1",
-      "size": 4642611,
-      "sha256": "cf3189489ca5736c2444f7a497d46212a7cb791fe6f59fa2861bfd654375c4ac",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.dice-3-cf3189489c/com.ghost.dice-3-cf3189489c.apk",
-      "published": 1790351848
+      "size": 4718598,
+      "sha256": "5c2bd776cdeb614820b75f0d4a4590162c262284fc725cba8df0376d0e7695e1",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.dice-3-5c2bd776cd/com.ghost.dice-3-5c2bd776cd.apk",
+      "published": 1790466902
     },
     {
       "package": "com.ghost.counter",
@@ -204,10 +204,10 @@
       ],
       "versionCode": 2,
       "versionName": "1.1",
-      "size": 4617617,
-      "sha256": "8b3eccffc2d6b0fe7b3da34d7a19ea7d80d876292609a1edd9b97393a2af5302",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.counter-2-8b3eccffc2/com.ghost.counter-2-8b3eccffc2.apk",
-      "published": 1790292409
+      "size": 4694640,
+      "sha256": "dde476cd79aa28f7b63b00f66d240580e8c2e1f2b91c3c25e01ccc5303044c66",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.counter-2-dde476cd79/com.ghost.counter-2-dde476cd79.apk",
+      "published": 1790466904
     },
     {
       "package": "com.ghost.graphwar",
@@ -221,10 +221,10 @@
       ],
       "versionCode": 3,
       "versionName": "1.1.1",
-      "size": 4648247,
-      "sha256": "631140ffa8f0f52b15b3d9af2dfb2bba84d992c1c21e8d0547265fae6b7f761d",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.graphwar-3-631140ffa8/com.ghost.graphwar-3-631140ffa8.apk",
-      "published": 1790352012
+      "size": 4722638,
+      "sha256": "58011fb1f703f9fb45c78e69285aac5fa428c74a7c4e915299d98ea067f5175f",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.graphwar-3-58011fb1f7/com.ghost.graphwar-3-58011fb1f7.apk",
+      "published": 1790466906
     },
     {
       "package": "com.ghost.cookie",
@@ -239,16 +239,16 @@
       ],
       "versionCode": 3,
       "versionName": "2.0.1",
-      "size": 4647771,
-      "sha256": "54bf767127d48f720cb2448fd23b87d96e064bd0288320d8088754375f41aeac",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.cookie-3-54bf767127/com.ghost.cookie-3-54bf767127.apk",
-      "published": 1790351688
+      "size": 4722638,
+      "sha256": "b75e6e05b479bf0884b7dd44ba19169902ef87f3fb532ef15da8a2e54fa1391c",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.cookie-3-b75e6e05b4/com.ghost.cookie-3-b75e6e05b4.apk",
+      "published": 1790466908
     },
     {
       "package": "com.ghost.invest",
       "name": "Ghost Invest",
       "icon": "invest",
-      "description": "Practise investing with £10,000 of pretend money on real, live meme coin, crypto and stock prices.",
+      "description": "Practise investing with \u00a310,000 of pretend money on real, live meme coin, crypto and stock prices.",
       "changes": [
         "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner.",
         "New app: buy and sell 15 meme coins, Bitcoin, Solana and 10 big stocks with practice money, at live prices.",
@@ -256,10 +256,10 @@
       ],
       "versionCode": 3,
       "versionName": "1.1.1",
-      "size": 4671871,
-      "sha256": "14827aff0837a9c1e0ab3add12ab1de910ea27a062d390273c7cb6a0e67ff153",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.invest-3-14827aff08/com.ghost.invest-3-14827aff08.apk",
-      "published": 1790352034
+      "size": 4747270,
+      "sha256": "fc70a4a9366222a7848a2abce9b09587df8727b0b013ae498a681b969a8afde9",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.invest-3-fc70a4a936/com.ghost.invest-3-fc70a4a936.apk",
+      "published": 1790466911
     },
     {
       "package": "com.ghost.bot",
@@ -274,10 +274,10 @@
       ],
       "versionCode": 3,
       "versionName": "1.1.1",
-      "size": 4649291,
-      "sha256": "c87c4b98ed0f89f9109140b3d4e981e4c53d9303e0f3b560d884348452c85103",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.bot-3-c87c4b98ed/com.ghost.bot-3-c87c4b98ed.apk",
-      "published": 1790351832
+      "size": 4726790,
+      "sha256": "728d244fab745bc13290f0378887056930d6da83fb012b8028eacee1766df75e",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.bot-3-728d244fab/com.ghost.bot-3-728d244fab.apk",
+      "published": 1790466913
     }
   ]
 }
