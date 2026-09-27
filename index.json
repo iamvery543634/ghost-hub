@@ -1,6 +1,6 @@
 {
   "server": "Ghost Hub (GitHub)",
-  "updated": 1790467501,
+  "updated": 1790496934,
   "apps": [
     {
       "package": "com.ghost.hub",
@@ -8,16 +8,16 @@
       "icon": "hub",
       "description": "Every Ghost app in one place. Install and update them anywhere, from GitHub or your PC.",
       "changes": [
-        "Cleaner look: a search box, and apps sorted into Tools, Everyday and Games & fun.",
-        "New settings sheet with Update history (every install and update, with versions and times), Share Ghost Hub and Clear downloads.",
-        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner."
+        "New custom Ghost icons instead of emoji, everywhere in the app.",
+        "Keys: Ghost Hub needs a key. Paid keys unlock every app, Free keys 2 apps you pick.",
+        "Icon: the triangle of three ghosts."
       ],
-      "versionCode": 17,
-      "versionName": "3.0.1",
-      "size": 4791366,
-      "sha256": "af2d0c726417240f6290e0ed736ff66c0df2d4303854cad2da9b6f8b91d1eb19",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-17-af2d0c7264/com.ghost.hub-17-af2d0c7264.apk",
-      "published": 1790466878
+      "versionCode": 22,
+      "versionName": "3.1.3",
+      "size": 4809096,
+      "sha256": "c4661b4fb976043479a3ec63e9745234eb561b9018e05a9dc829fb35df8884dd",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.hub-22-c4661b4fb9/com.ghost.hub-22-c4661b4fb9.apk",
+      "published": 1790496862
     },
     {
       "package": "com.mirage.gps",
@@ -25,17 +25,16 @@
       "icon": "ghost",
       "description": "Set your location anywhere: teleport, walk a route or steer with the joystick.",
       "changes": [
-        "\ud83c\udfb2 Random walk: pick a length and Ghost GPS draws a loop around where you are.",
-        "Import routes from other map or fitness apps as GPX files, and save your routes as GPX.",
-        "New Routes sheet, rename saved routes, and rename favourites (long-press a favourite).",
-        "The icon is back to the original Ghost GPS ghost."
+        "Search history: your recent searches as chips, tap to search again.",
+        "Fixed a crash in the Recent places list.",
+        "Custom Ghost icons instead of emoji."
       ],
-      "versionCode": 10,
-      "versionName": "3.1.1",
-      "size": 17548839,
-      "sha256": "053996373d83c2168046fd6eadcf2a87f99aab2a52bd33f8401bed113ba893d1",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.mirage.gps-10-053996373d/com.mirage.gps-10-053996373d.apk",
-      "published": 1790466880
+      "versionCode": 11,
+      "versionName": "3.2",
+      "size": 17511925,
+      "sha256": "d374a5544ff37a653c906d77edc07d9b54c3938af73cd668a062ad98c8dee932",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.mirage.gps-11-d374a5544f/com.mirage.gps-11-d374a5544f.apk",
+      "published": 1790496862
     },
     {
       "package": "com.ghost.volume",
@@ -43,16 +42,15 @@
       "icon": "volume",
       "description": "Your own volume for every app, switched automatically when you open it.",
       "changes": [
-        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner.",
-        "Headphone volume limit: cap media volume whenever headphones or Bluetooth are connected, to look after your ears.",
-        "Sound / Vibrate / Silent buttons for your ringer, right above the system volumes."
+        "Quick presets: School, Home, Gaming, Night, or save your own.",
+        "Custom Ghost icons instead of emoji."
       ],
-      "versionCode": 9,
-      "versionName": "2.3.1",
-      "size": 4748447,
-      "sha256": "03abcb926c64a6fc57f0fe2adcdad839ae5c0e7fa2ee234cdff02a94828cc5ac",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.volume-9-03abcb926c/com.ghost.volume-9-03abcb926c.apk",
-      "published": 1790466882
+      "versionCode": 10,
+      "versionName": "2.4",
+      "size": 4744548,
+      "sha256": "8d8f14488dd0bc6265f01ba09417aa4e589b65f823296ecce7a85b276a18fa69",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.volume-10-8d8f14488d/com.ghost.volume-10-8d8f14488d.apk",
+      "published": 1790496862
     },
     {
       "package": "com.ghost.terminal",
@@ -60,16 +58,14 @@
       "icon": "terminal",
       "description": "A shell on your phone, with a side list of commands that work on your device.",
       "changes": [
-        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner.",
-        "Small test update: checks Ghost Hub can now update apps without asking you.",
-        "Colour output: 'ls --color' and friends now show real colours instead of odd symbols."
+        "Custom Ghost icons instead of emoji."
       ],
-      "versionCode": 8,
-      "versionName": "1.4.3",
-      "size": 4723872,
-      "sha256": "f54a932358d918f273dadc9da1318fb6018c3b805885f8b7e91516e6cee7da2d",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.terminal-8-f54a932358/com.ghost.terminal-8-f54a932358.apk",
-      "published": 1790466886
+      "versionCode": 9,
+      "versionName": "1.4.4",
+      "size": 4715456,
+      "sha256": "0519aa1226dede41e49f89787c2f0bd137e93eebe9cc4a32c9c80b8943f4f876",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.terminal-9-0519aa1226/com.ghost.terminal-9-0519aa1226.apk",
+      "published": 1790496862
     },
     {
       "package": "com.ghost.weather",
@@ -77,16 +73,16 @@
       "icon": "weather",
       "description": "Live weather where you are and anywhere you save: hourly, 7-day, rain alerts at a glance.",
       "changes": [
-        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner.",
-        "New Air quality tile (with PM2.5) and a Daylight tile that says if tomorrow is longer or shorter.",
-        "Optional morning rain alert at 7:30 when rain is likely today."
+        "16-day forecast.",
+        "Pollen: grass, tree and weed levels (UK and Europe).",
+        "Full-colour Ghost weather icons, in the app and the widget."
       ],
-      "versionCode": 6,
-      "versionName": "1.4",
-      "size": 4748278,
-      "sha256": "54cb5b3ed4e661625dba8ce8bbbc7fc64deab01cbda765fe63dfd9fb597ac5cb",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.weather-6-54cb5b3ed4/com.ghost.weather-6-54cb5b3ed4.apk",
-      "published": 1790466888
+      "versionCode": 7,
+      "versionName": "1.5",
+      "size": 4744665,
+      "sha256": "d48beed0a697e050b307e3198905e81ab33df6603708b1a331d83c8dd4fa0918",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.weather-7-d48beed0a6/com.ghost.weather-7-d48beed0a6.apk",
+      "published": 1790496862
     },
     {
       "package": "com.ghost.school",
@@ -128,17 +124,16 @@
       "icon": "vpn",
       "description": "One-tap VPN through free volunteer servers in many countries. Tests servers from your phone to find the fastest.",
       "changes": [
-        "The connect button now has the ghost in it, and gets a green shield when you're protected.",
-        "Fastest-for-you tiles: the quickest countries from your phone, one tap to connect.",
-        "Region filters (Europe, Americas, Asia), neat time and data tiles, and a new session history with weekly totals.",
-        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner."
+        "More accurate data used: VPN traffic is no longer counted twice.",
+        "This month's data in Recent sessions.",
+        "Country badges and custom Ghost icons instead of emoji."
       ],
-      "versionCode": 6,
-      "versionName": "2.0.1",
-      "size": 4739304,
-      "sha256": "c82aff6062fdfe8516d9f633cd39af0ca2f4c015882f4dedd6952345d419edc1",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.vpn-6-c82aff6062/com.ghost.vpn-6-c82aff6062.apk",
-      "published": 1790466895
+      "versionCode": 7,
+      "versionName": "2.1",
+      "size": 4736825,
+      "sha256": "dd3ff12b019f929f1014d35743c4936ba922cf33e697647fde2a1107d93751b6",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.vpn-7-dd3ff12b01/com.ghost.vpn-7-dd3ff12b01.apk",
+      "published": 1790496862
     },
     {
       "package": "com.ghost.browser",
@@ -146,17 +141,18 @@
       "icon": "browser",
       "description": "A private browser: ad & tracker blocker, incognito tabs, and sites forget you when you leave.",
       "changes": [
-        "A clean new menu: quick buttons (forward, reload, bookmark, share, find) and a tidy grid for everything else.",
-        "Closed a tab by mistake? Tap Undo, or Reopen tab from the menu (normal tabs only, never saved).",
-        "Tidier start page with a greeting and privacy stat tiles.",
-        "Icon: the classic Ghost GPS ghost is back, now on every Ghost app, with this app's badge in the corner."
+        "Translate any page, and auto-translate pages in other languages (Google's translation service).",
+        "Dark mode for websites, with a per-site switch.",
+        "Reading list: save pages for later, with an offline copy.",
+        "Scan QR codes, show a QR code for the page, add sites to your home screen, and read aloud in Reader.",
+        "Custom Ghost icons instead of emoji."
       ],
-      "versionCode": 7,
-      "versionName": "3.0.1",
-      "size": 4957575,
-      "sha256": "7caefae5b5625e19ee8a03d027a5ee5f19869e893231581e56c10662bf0ae3cd",
-      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.browser-7-7caefae5b5/com.ghost.browser-7-7caefae5b5.apk",
-      "published": 1790466898
+      "versionCode": 8,
+      "versionName": "3.1",
+      "size": 5263182,
+      "sha256": "5c4fb8c116bb826c4a561d141ac347d1f959b801c49936364ad46c14bea64ea6",
+      "file": "https://github.com/iamvery543634/ghost-hub/releases/download/com.ghost.browser-8-5c4fb8c116/com.ghost.browser-8-5c4fb8c116.apk",
+      "published": 1790496862
     },
     {
       "package": "com.ghost.video",
